@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+   <title>CPQ</title>
+   <topicref href="208504872.dita" navtitle="About CPQ" format="dita" audience="Salesforce"/>
+   <topicref href="250773532.dita" navtitle="What's New in CPQ Documentation" format="dita" audience="Salesforce"/>
+   <topicref href="220759441.dita" navtitle="CPQ for Administrators" format="dita" audience="Salesforce">
+      <topicref href="143197202.dita" navtitle="Getting Started with CPQ" format="dita" audience="Salesforce">
+         <topicref href="225251801.dita" navtitle="Before You Install CPQ" format="dita" audience="Salesforce"/>
+         <topicref href="239545137.dita" navtitle="Installing CPQ Packages" format="dita" audience="Salesforce"/>
+         <topicref href="220758454.dita" navtitle="Registering for Conga Upgrade Program" format="dita" audience="Salesforce"/>
+         <topicref href="143197205.dita" navtitle="Logging in to CPQ" format="dita" audience="Salesforce"/>
+         <topicref href="203497643.dita" navtitle="Navigating the CPQ Admin User Interface" format="dita" audience="Salesforce">
+            <topicref href="143197207.dita" navtitle="Configuring the CPQ Admin Landing Page Fields" format="dita" audience="Salesforce"/>
+            <topicref href="152571142.dita" navtitle="Configuring the Product Creation Screen Fields" format="dita" audience="Salesforce"/>
+            <topicref href="152571195.dita" navtitle="Configuring the Tooltips" format="dita" audience="Salesforce"/>
+            <topicref href="152571316.dita" navtitle="Configuring Custom Fields on Price List Related Pages" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169285674.dita" navtitle="About Permission Sets" format="dita" audience="Salesforce"/>
+         <topicref href="152571546.dita" navtitle="Profile Settings and Security" format="dita" audience="CongaPlatform"/>
+         <topicref href="152571673.dita" navtitle="CPQ Package Objects" format="dita" audience="Salesforce"/>
+         <topicref href="239545242.dita" navtitle="Configuring Post-Installation Settings" format="dita" audience="Salesforce">
+            <topicref href="252349835.dita" navtitle="Configuring Application Management Settings" format="dita" audience="Salesforce">
+               <topicref href="143197213.dita" navtitle="Configuring Smart Search Settings" format="dita" audience="Salesforce"/>
+               <topicref href="143197214.dita" navtitle="Configuring Favorite Settings" format="dita" audience="Salesforce"/>
+               <topicref href="143197215.dita" navtitle="Configuring Catalog Page Settings" format="dita" audience="Salesforce"/>
+               <topicref href="169281764.dita" navtitle="Configuring Cart Page Settings" format="dita" audience="Salesforce"/>
+               <topicref href="143197217.dita" navtitle="Configuring Analyze Deal Settings" format="dita" audience="Salesforce"/>
+               <topicref href="143197218.dita" navtitle="Configuring Flow Management Settings" format="dita" audience="Salesforce"/>
+               <topicref href="158336290.dita" navtitle="Configuring Configuration Engine Settings" format="dita" audience="Salesforce"/>
+               <topicref href="143197220.dita" navtitle="Configuring Developer Settings" format="dita" audience="Salesforce"/>
+               <topicref href="143197221.dita" navtitle="Configuring Object Summary Settings" format="dita" audience="Salesforce"/>
+               <topicref href="158336188.dita" navtitle="Configuring Lookup Field Settings" format="dita" audience="Salesforce"/>
+               <topicref href="150503748.dita" navtitle="Configuring Config Page Settings" format="dita" audience="Salesforce"/>
+               <topicref href="203490945.dita" navtitle="Configuring Installed Products Settings" format="dita" audience="Salesforce"/>
+               <topicref href="143197225.dita" navtitle="Configuring Collaboration Settings" format="dita" audience="Salesforce"/>
+               <topicref href="165940223.dita" navtitle="Configuring Pricing Engine Settings" format="dita" audience="Salesforce"/>
+               <topicref href="143197227.dita" navtitle="Configuring Proposal Settings" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143903370.dita" navtitle="Configuring Custom Settings" format="dita" audience="Salesforce">
+               <topicref href="148112099.dita" navtitle="Base Private Properties" format="dita" audience="Salesforce"/>
+               <topicref href="148112102.dita" navtitle="Comply System Properties" format="dita" audience="Salesforce"/>
+               <topicref href="148112107.dita" navtitle="Config Asset Pricing Criteria Fields" format="dita" audience="Salesforce"/>
+               <topicref href="213459221.dita" navtitle="Config Asset Pricing Default" format="dita" audience="Salesforce"/>
+               <topicref href="148112133.dita" navtitle="Config Custom Classes" format="dita" audience="Salesforce"/>
+               <topicref href="148112136.dita" navtitle="Config Custom Display Actions" format="dita" audience="Salesforce"/>
+               <topicref href="148112139.dita" navtitle="Config Custom Display Columns" format="dita" audience="Salesforce"/>
+               <topicref href="169282800.dita" navtitle="Config Data Cache" format="dita" audience="Salesforce"/>
+               <topicref href="148112145.dita" navtitle="Config Field Set" format="dita" audience="Salesforce"/>
+               <topicref href="239542903.dita" navtitle="Config Field Set Edit" format="dita" audience="CongaPlatform"/>
+               <topicref href="213456475.dita" navtitle="Config Flow" format="dita" audience="Salesforce"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/.Config+Line+Item+Custom+Fields+vOctober-23?src=contextnavpagetreemode" navtitle="Config Line Item Custom Fields" format="dita" audience="Salesforce"/>
+               <topicref href="148112151.dita" navtitle="Config Select Options Settings" format="dita" audience="Salesforce"/>
+               <topicref href="148112154.dita" navtitle="Config Select Products Settings" format="dita" audience="Salesforce"/>
+               <topicref href="235405463.dita" navtitle="Config System Properties" format="dita" audience="Salesforce"/>
+               <topicref href="235405327.dita" navtitle="Config User Preferences" format="dita" audience="Salesforce"/>
+               <topicref href="222431757.dita" navtitle="Installed Products Settings" format="dita" audience="Salesforce"/>
+               <topicref href="148112167.dita" navtitle="Lookup Field Settings" format="dita" audience="Salesforce"/>
+               <topicref href="225253129.dita" navtitle="Proposal System Properties" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="248546486.dita" navtitle="Configuring Custom Settings for Different Flows" format="dita" audience="Salesforce">
+               <topicref href="150503835.dita" navtitle="About Custom Setting Order of Precedence" format="dita" audience="Salesforce"/>
+               <topicref href="193692891.dita" navtitle="Using CaaS with Flow-based Settings" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="239542956.dita" navtitle="Configuring Field Set Settings" format="dita" audience="Salesforce"/>
+            <topicref href="213451088.dita" navtitle="Smart Search Setup" format="dita" audience="Salesforce">
+               <topicref href="213451836.dita" navtitle="Smart Search Settings" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="225251798.dita" navtitle="Migrating a Workflow Rule to Flow" format="dita" audience="Salesforce">
+               <topicref href="https://documentation.conga.com/display/CPQ/.Working+with+Flow+Builder+vJune-23?src=contextnavpagetreemode" navtitle="Working with Flow Builder" format="dita" audience="Salesforce"/>
+            </topicref>
+         </topicref>
+         <topicref href="248546713.dita" navtitle="Upgrading CPQ" format="dita" audience="Salesforce">
+            <topicref href="239542771.dita" navtitle="Preparing for Upgrade" format="dita" audience="Salesforce"/>
+            <topicref href="239542787.dita" navtitle="Upgrading to CPQ February '24 Release" format="dita" audience="Salesforce"/>
+            <topicref href="220759199.dita" navtitle="Performing the Post-Upgrade Tasks" format="dita" audience="Salesforce"/>
+            <topicref href="239542771.dita" navtitle="Preparing for Upgrade (UDJS)" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.Upgrade+Assistant+vFebruary-24?src=contextnavpagetreemode" navtitle="Upgrade Assistant" format="dita" audience="Salesforce">
+               <topicref href="245596422.dita" navtitle="Installed Packages" format="dita" audience="Salesforce"/>
+               <topicref href="245596424.dita" navtitle="Instant Upgrade" format="dita" audience="Salesforce"/>
+               <topicref href="245596447.dita" navtitle="Schedule Upgrade" format="dita" audience="Salesforce"/>
+            </topicref>
+         </topicref>
+         <topicref href="143197236.dita" navtitle="Creating an Opportunity in Salesforce" format="dita" audience="Salesforce"/>
+         <topicref href="143197237.dita" navtitle="Creating a Shopping Cart Experience" format="dita" audience="Salesforce"/>
+         <topicref href="150503828.dita" navtitle="Running Maintenance Jobs" format="dita" audience="Salesforce"/>
+         <topicref href="154927129.dita" navtitle="About TurboEngines" format="dita" audience="Salesforce">
+            <topicref href="154927150.dita" navtitle="About TurboConfig" format="dita" audience="Salesforce"/>
+            <topicref href="154927153.dita" navtitle="About TurboPricing" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169285291.dita" navtitle="Using Shield Platform Encryption" format="dita" audience="Salesforce"/>
+         <topicref href="179208363.dita" navtitle="Enabling CPQ for Partner Community Users" format="dita" audience="Salesforce">
+            <topicref href="179208752.dita" navtitle="Configuring a Profile" format="dita" audience="Salesforce"/>
+            <topicref href="179208756.dita" navtitle="Configuring Field-Level Security" format="dita" audience="Salesforce"/>
+            <topicref href="179208760.dita" navtitle="Configuring a Permission Set" format="dita" audience="Salesforce"/>
+            <topicref href="179208764.dita" navtitle="Sharing Settings" format="dita" audience="Salesforce"/>
+            <topicref href="179208768.dita" navtitle="Configuring a Partner Community User" format="dita" audience="Salesforce"/>
+            <topicref href="179208772.dita" navtitle="Configuring a Partner Community Site" format="dita" audience="Salesforce"/>
+            <topicref href="179208784.dita" navtitle="Configuring a Custom Button on the Quote Object for Partners" format="dita" audience="Salesforce"/>
+            <topicref href="181307985.dita" navtitle="Validating the Partner Community User" format="dita" audience="Salesforce"/>
+         </topicref>
+      </topicref>
+      <topicref href="208505664.dita" navtitle="Supported Features in CPQ" format="dita" audience="CongaPlatform">
+         <topicref href="250773632.dita" navtitle="Asset Features" format="dita" audience="CongaPlatform"/>
+         <topicref href="250773635.dita" navtitle="Cart Features" format="dita" audience="CongaPlatform"/>
+         <topicref href="250773638.dita" navtitle="Catalog Features" format="dita" audience="CongaPlatform"/>
+         <topicref href="250773641.dita" navtitle="Config Features" format="dita" audience="CongaPlatform"/>
+         <topicref href="249563286.dita" navtitle="Pricing Features" format="dita" audience="CongaPlatform"/>
+      </topicref>
+      <topicref href="248545576.dita" navtitle="Setting up Salesforce Org with Conga Cloud Instance for CPQ" format="dita" audience="Salesforce">
+         <topicref href="251429090.dita" navtitle="Tenant Onboarding" format="dita" audience="Salesforce"/>
+         <topicref href="https://documentation.conga.com/display/CPQ/.Configurations+on+the+Salesforce+Org+vFebruary-24?src=contextnavpagetreemode" navtitle="Configuring the Salesforce Org" format="dita" audience="Salesforce">
+            <topicref href="252349689.dita" navtitle="Installing Conga CPQ (RLS) Package" format="dita" audience="Salesforce"/>
+            <topicref href="251429088.dita" navtitle="Creating a New Admin Setting" format="dita" audience="Salesforce"/>
+            <topicref href="248545520.dita" navtitle="Creating a new Auth. Provider" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.Setup+Remote+Site+Settings+vFebruary-24?src=contextnavpagetreemode" navtitle="Creating Remote Site Settings" format="dita" audience="Salesforce"/>
+            <topicref href="246580370.dita" navtitle="Creating a New Static Resource" format="dita" audience="Salesforce"/>
+            <topicref href="245596483.dita" navtitle="Creating the Configure Products Button for RLS Flow" format="dita" audience="Salesforce"/>
+            <topicref href="246580386.dita" navtitle="Enabling OAuth Settings" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.Creating+a+Connected+App-P2+vFebruary-24?src=contextnavpagetreemode" navtitle="Creating a Connected App" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/Configuring+a+Deep+Clone+Button+on+Proposal?src=contextnavpagetreemode" navtitle="Configuring a Deep Clone Button on Proposal" format="dita" audience="CongaPlatform"/>
+            <topicref href="248545679.dita" navtitle="Configuring View Cart (Read Only) Button on Proposal" format="dita" audience="CongaPlatform"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/Configuring+My+Approval+Button+on+Proposal+Detail+Page?src=contextnavpagetreemode" navtitle="Configuring My Approval Button on Proposal Detail Page" format="dita" audience="CongaPlatform"/>
+         </topicref>
+         <topicref href="https://documentation.conga.com/display/CPQ/.Configurations+on+Conga+Platform+vFebruary-24?src=contextnavpagetreemode" navtitle="Configuring the Conga Platform" format="dita" audience="Salesforce">
+            <topicref href="https://documentation.conga.com/display/CPQ/.Managing+External+Integrations+vFebruary-24?src=contextnavpagetreemode" navtitle="Managing External Integrations" format="dita" audience="Salesforce"/>
+            <topicref href="245596671.dita" navtitle="Adding a New User" format="dita" audience="Salesforce"/>
+            <topicref href="252346704.dita" navtitle="Configuring DataSync Infrastructure" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.Running+the+DataSync+vFebruary-24?src=contextnavpagetreemode" navtitle="Running the DataSync" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="https://documentation.conga.com/display/CPQ/.Creating+Quotes+In+Conga+Revenue+Lifecycle+Services+%28RLS%29+Flow+vFebruary-24?src=contextnavpagetreemode" navtitle="Configuring Revenue Admin Settings" format="dita" audience="Salesforce">
+            <topicref href="249563419.dita" navtitle="Configuring Revenue Admin Application Settings" format="dita" audience="Salesforce"/>
+            <topicref href="154937657.dita" navtitle="Configuring Flow Settings" format="dita" audience="Salesforce">
+               <topicref href="245596709.dita" navtitle="Cart Page Settings" format="dita" audience="Salesforce"/>
+               <topicref href="245596713.dita" navtitle="Catalog Page Settings" format="dita" audience="Salesforce"/>
+            </topicref>
+         </topicref>
+         <topicref href="https://documentation.conga.com/display/CPQ/.Use+Case+1%3A+Creating+a+Quote+from+the+Proposal+vFebruary-24?src=contextnavpagetreemode" navtitle="Creating a Quote from the Proposal" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="208509137.dita" navtitle="Revenue Admin User Interface" format="dita" audience="CongaPlatform">
+         <topicref href="239541035.dita" navtitle="Accessing the CPQ Admin Home Page on Conga Platform" format="dita" audience="CongaPlatform"/>
+         <topicref href="208509140.dita" navtitle="Configuring Application Settings" format="dita" audience="CongaPlatform">
+            <topicref href="208509152.dita" navtitle="Configuring Global Settings" format="dita" audience="CongaPlatform">
+               <topicref href="239548431.dita" navtitle="Catalog Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="239548460.dita" navtitle="Config Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="239545274.dita" navtitle="Cart Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="239545265.dita" navtitle="Pricing Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="239545278.dita" navtitle="Favorite Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="248545368.dita" navtitle="General Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="239545285.dita" navtitle="Object Summary View Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="222430528.dita" navtitle="Lookup Fields" format="dita" audience="CongaPlatform">
+                  <topicref href="222430540.dita" navtitle="Creating a Lookup Field" format="dita" audience="CongaPlatform"/>
+               </topicref>
+               <topicref href="239549238.dita" navtitle="Asset Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="252348166.dita" navtitle="Asset Pricing Criteria" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="235411153.dita" navtitle="Configuring Storefront Settings" format="dita" audience="CongaPlatform">
+               <topicref href="235411157.dita" navtitle="Creating Storefront Settings" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="239547906.dita" navtitle="Configuring Flow Settings to Override Global Settings" format="dita" audience="CongaPlatform">
+               <topicref href="239545293.dita" navtitle="Configuring Action Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="239549235.dita" navtitle="Configuring Column Settings" format="dita" audience="CongaPlatform"/>
+               <topicref href="208509176.dita" navtitle="Configuring the Flows" format="dita" audience="CongaPlatform"/>
+               <topicref href="218828091.dita" navtitle="Managing Cart Views on the Cart Page" format="dita" audience="CongaPlatform"/>
+               <topicref href="235407507.dita" navtitle="Overriding Global Settings at a Flow Level" format="dita" audience="CongaPlatform"/>
+            </topicref>
+         </topicref>
+         <topicref href="https://documentation.conga.com/display/CPQ/Managing+the+Views?src=contextnavpagetreemode" navtitle="Managing the Views" format="dita" audience="CongaPlatform">
+            <topicref href="https://documentation.conga.com/display/CPQ/Managing+the+View+Settings?src=contextnavpagetreemode" navtitle="Managing the View Settings" format="dita" audience="CongaPlatform"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/Filtering+Records+in+Grid+View?src=contextnavpagetreemode" navtitle="Filtering Records in Grid View" format="dita" audience="CongaPlatform"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/Exporting+Records?src=contextnavpagetreemode" navtitle="Exporting Records" format="dita" audience="CongaPlatform"/>
+         </topicref>
+         <topicref href="208509144.dita" navtitle="Product Administration" format="dita" audience="CongaPlatform">
+            <topicref href="248546303.dita" navtitle="Managing the Products" format="dita" audience="CongaPlatform">
+               <topicref href="248546285.dita" navtitle="Configuring the Products" format="dita" audience="CongaPlatform"/>
+               <topicref href="239545313.dita" navtitle="Associating Price Lists with a Product" format="dita" audience="CongaPlatform"/>
+               <topicref href="208509094.dita" navtitle="Creating Constraint Rules for a Product" format="dita" audience="CongaPlatform"/>
+               <topicref href="239545322.dita" navtitle="Associating Categories with a Product" format="dita" audience="CongaPlatform"/>
+               <topicref href="231211230.dita" navtitle="Associating Product Groups with a Product" format="dita" audience="CongaPlatform"/>
+               <topicref href="239540903.dita" navtitle="Associating Attribute Groups with a Product" format="dita" audience="CongaPlatform"/>
+               <topicref href="246579481.dita" navtitle="Associating Option Groups with a Product" format="dita" audience="CongaPlatform"/>
+               <topicref href="222429608.dita" navtitle="Associating Attribute Rules with a Product" format="dita" audience="CongaPlatform"/>
+               <topicref href="231211232.dita" navtitle="Associating Feature Sets with a Product" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Introduction+to+Products?src=contextnavpagetreemode" navtitle="Introduction to Products" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="https://documentation.conga.com/display/CPQ/Managing+Catalog?src=contextnavpagetreemode" navtitle="Managing Catalog" format="dita" audience="CongaPlatform">
+               <topicref href="https://documentation.conga.com/display/CPQ/Navigating+the+Catalog+Page?src=contextnavpagetreemode" navtitle="Navigating the Catalog Page" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Configuring+Catalog?src=contextnavpagetreemode" navtitle="Configuring Catalog" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Configuring+Sub+Categories?src=contextnavpagetreemode" navtitle="Configuring Sub Categories" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Associating+Price+Lists+to+the+Categories?src=contextnavpagetreemode" navtitle="Associating Price Lists to the Categories" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Associating+Products+with+Categories?src=contextnavpagetreemode" navtitle="Associating Products with Categories" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546327.dita" navtitle="Managing the Product Groups" format="dita" audience="CongaPlatform">
+               <topicref href="208509193.dita" navtitle="Configuring Product Groups" format="dita" audience="CongaPlatform"/>
+               <topicref href="208509198.dita" navtitle="Associating Products with a Product Group" format="dita" audience="CongaPlatform"/>
+               <topicref href="208509203.dita" navtitle="Creating Constraint Rules for a Product Group" format="dita" audience="CongaPlatform"/>
+               <topicref href="231211182.dita" navtitle="Associating Attribute Rules with a Product Group" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Using+the+Where+used+Option+for+a+Product+Group?src=contextnavpagetreemode" navtitle="Using the Where used Option for a Product Group" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546333.dita" navtitle="Managing the Constraint Rules" format="dita" audience="CongaPlatform">
+               <topicref href="239545493.dita" navtitle="Creating a Constraint Rule" format="dita" audience="CongaPlatform"/>
+               <topicref href="239545483.dita" navtitle="Configuring a Constraint Rule Using the Advanced Rule Setup" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546352.dita" navtitle="Managing the Categories" format="dita" audience="CongaPlatform">
+               <topicref href="213458492.dita" navtitle="Creating a Category" format="dita" audience="CongaPlatform"/>
+               <topicref href="213458765.dita" navtitle="Creating a Category Hierarchy" format="dita" audience="CongaPlatform"/>
+               <topicref href="213458910.dita" navtitle="Adding Price Lists to a Category" format="dita" audience="CongaPlatform"/>
+               <topicref href="222430814.dita" navtitle="Adding Products to a Category" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546361.dita" navtitle="Managing the Option Groups" format="dita" audience="CongaPlatform">
+               <topicref href="213458923.dita" navtitle="Associating Products with an Option Group" format="dita" audience="CongaPlatform"/>
+               <topicref href="247530177.dita" navtitle="Creating the Option Groups" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Using+the+Where+used+Option+for+an+Option+Group?src=contextnavpagetreemode" navtitle="Using the Where used Option for an Option Group" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546386.dita" navtitle="Managing the Attributes and Attribute Groups" format="dita" audience="CongaPlatform">
+               <topicref href="218828051.dita" navtitle="Creating an Attribute" format="dita" audience="CongaPlatform"/>
+               <topicref href="239545566.dita" navtitle="Creating an Attribute Group" format="dita" audience="CongaPlatform"/>
+               <topicref href="239540891.dita" navtitle="Associate an Attribute to an Attribute Group" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Associated+Products+under+Attribute+Groups?src=contextnavpagetreemode" navtitle="Associated Products under Attribute Groups" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546405.dita" navtitle="Managing Product Attribute Rules" format="dita" audience="CongaPlatform">
+               <topicref href="239546023.dita" navtitle="Creating a PAR" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546411.dita" navtitle="Managing Attribute Value Matrices" format="dita" audience="CongaPlatform">
+               <topicref href="235408546.dita" navtitle="Creating an Attribute Value Matrix" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546430.dita" navtitle="Managing Field Expressions" format="dita" audience="CongaPlatform">
+               <topicref href="222430457.dita" navtitle="Creating a Field Expression" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546440.dita" navtitle="Managing the Feature Sets" format="dita" audience="CongaPlatform">
+               <topicref href="233538167.dita" navtitle="Creating the Feature Sets" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="248546464.dita" navtitle="Managing the Rollups" format="dita" audience="CongaPlatform">
+               <topicref href="225248380.dita" navtitle="Creating the Rollups" format="dita" audience="CongaPlatform"/>
+            </topicref>
+         </topicref>
+         <topicref href="222430791.dita" navtitle="Pricing Administration" format="dita" audience="CongaPlatform">
+            <topicref href="208508515.dita" navtitle="Managing Price Lists" format="dita" audience="CongaPlatform">
+               <topicref href="208509270.dita" navtitle="Configuring the Price Lists" format="dita" audience="CongaPlatform"/>
+               <topicref href="250773528.dita" navtitle="Managing Price List Items" format="dita" audience="CongaPlatform">
+                  <topicref href="218827936.dita" navtitle="Adding Charge Types to a Product" format="dita" audience="CongaPlatform"/>
+                  <topicref href="222430519.dita" navtitle="Adding Charge Type Criteria to a Product" format="dita" audience="CongaPlatform"/>
+                  <topicref href="225251778.dita" navtitle="Creating a Price List Item" format="dita" audience="CongaPlatform">
+                     <topicref href="222429598.dita" navtitle="Adding Default Pricing to a Product" format="dita" audience="CongaPlatform"/>
+                     <topicref href="220759376.dita" navtitle="Adding Details to a Price List Item" format="dita" audience="CongaPlatform"/>
+                     <topicref href="231211382.dita" navtitle="Adding Miscellaneous Settings to a Price List Item" format="dita" audience="CongaPlatform"/>
+                     <topicref href="233538232.dita" navtitle="Configuring Price Matrices" format="dita" audience="CongaPlatform"/>
+                     <topicref href="222429569.dita" navtitle="Configuring Price Matrix Entries" format="dita" audience="CongaPlatform"/>
+                  </topicref>
+               </topicref>
+               <topicref href="213452463.dita" navtitle="Associating Categories with a Price List" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="213458310.dita" navtitle="Managing Price Dimensions" format="dita" audience="CongaPlatform">
+               <topicref href="235407524.dita" navtitle="Cloning a Price Dimension" format="dita" audience="CongaPlatform"/>
+               <topicref href="222429593.dita" navtitle="Creating a Price Dimension" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="231211167.dita" navtitle="Managing Price Rulesets" format="dita" audience="CongaPlatform">
+               <topicref href="222430500.dita" navtitle="Creating a Price Ruleset" format="dita" audience="CongaPlatform"/>
+               <topicref href="231211149.dita" navtitle="Creating a Price Rule" format="dita" audience="CongaPlatform"/>
+               <topicref href="222429557.dita" navtitle="Creating Price Rule Entries" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="225251355.dita" navtitle="Managing Deal Guidance" format="dita" audience="CongaPlatform">
+               <topicref href="https://documentation.conga.com/display/CPQ/.Creating+a+Color+Band+vSeptember-23?src=contextnavpagetreemode" navtitle="Creating a Color Band" format="dita" audience="CongaPlatform"/>
+               <topicref href="222430215.dita" navtitle="Creating a Dimension Set" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Creating+Guidance+Rules?src=contextnavpagetreemode" navtitle="Creating Guidance Rules" format="dita" audience="CongaPlatform"/>
+               <topicref href="222430219.dita" navtitle="Deleting a Dimension" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="249563602.dita" navtitle="Managing the Promotions" format="dita" audience="CongaPlatform">
+               <topicref href="249563842.dita" navtitle="About Promotions" format="dita" audience="CongaPlatform"/>
+               <topicref href="249563850.dita" navtitle="Viewing Promotions" format="dita" audience="CongaPlatform"/>
+               <topicref href="249563444.dita" navtitle="Creating a Promotion" format="dita" audience="CongaPlatform">
+                  <topicref href="249563609.dita" navtitle="Defining Information of a Promotion" format="dita" audience="CongaPlatform"/>
+                  <topicref href="249563428.dita" navtitle="Defining Scope of a Promotion" format="dita" audience="CongaPlatform"/>
+                  <topicref href="249563436.dita" navtitle="Defining Criteria of a Promotion" format="dita" audience="CongaPlatform"/>
+                  <topicref href="https://documentation.conga.com/display/CPQ/Defining+Benefits+if+a+Promotion?src=contextnavpagetreemode" navtitle="Defining Benefits if a Promotion" format="dita" audience="CongaPlatform"/>
+                  <topicref href="250773577.dita" navtitle="Defining Limits of a Promotion" format="dita" audience="CongaPlatform"/>
+                  <topicref href="249563447.dita" navtitle="Defining Coupons" format="dita" audience="CongaPlatform"/>
+               </topicref>
+               <topicref href="249563861.dita" navtitle="Editing a Promotion" format="dita" audience="CongaPlatform"/>
+               <topicref href="249563865.dita" navtitle="Deleting a Promotion" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Exporting+Promotions?src=contextnavpagetreemode" navtitle="Exporting Promotions" format="dita" audience="CongaPlatform"/>
+            </topicref>
+            <topicref href="249563024.dita" navtitle="Managing the Price Waterfall" format="dita" audience="CongaPlatform">
+               <topicref href="https://documentation.conga.com/display/CPQ/.Creating+the+Waterfall+Charts+vJanuary-24?src=contextnavpagetreemode" navtitle="Creating the Waterfall Charts" format="dita" audience="CongaPlatform">
+                  <topicref href="https://documentation.conga.com/display/CPQ/Creating+Price+Waterfall+Charts?src=contextnavpagetreemode" navtitle="Creating Price Waterfall Charts" format="dita" audience="CongaPlatform"/>
+               </topicref>
+               <topicref href="239549289.dita" navtitle="Managing Price Waterfall Rulesets" format="dita" audience="CongaPlatform">
+                  <topicref href="249561957.dita" navtitle="Creating Price Waterfall Ruleset" format="dita" audience="CongaPlatform"/>
+                  <topicref href="249562021.dita" navtitle="Creating a Price Waterfall Rule" format="dita" audience="CongaPlatform"/>
+                  <topicref href="249561996.dita" navtitle="Creating Price Waterfall Ruleset Entry" format="dita" audience="CongaPlatform"/>
+               </topicref>
+            </topicref>
+         </topicref>
+         <topicref href="https://documentation.conga.com/display/CPQ/.Bkp+vApril-23?src=contextnavpagetreemode" navtitle="Bkp" format="dita" audience="CongaPlatform">
+            <topicref href="https://documentation.conga.com/display/CPQ/.Creating+a+Constraint+Rule+Action+vJune-23?src=contextnavpagetreemode" navtitle="Creating a Constraint Rule Action" format="dita" audience="CongaPlatform"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.Creating+a+Constraint+Rule+Condition+vJune-23?src=contextnavpagetreemode" navtitle="Creating a Constraint Rule Condition" format="dita" audience="CongaPlatform"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.Catalog+Setup+APIs+%282023.7.0%29+vJuly-23?src=contextnavpagetreemode" navtitle="Catalog Setup APIs (2023.7.0)" format="dita" audience="CongaPlatform"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.Enabling+CPQ+on+Conga+Platform+vOctober-23?src=contextnavpagetreemode" navtitle="Enabling CPQ on Conga Platform" format="dita" audience="CongaPlatform"/>
+         </topicref>
+         <topicref href="https://documentation.conga.com/display/CPQ/Diagnostics?src=contextnavpagetreemode" navtitle="Diagnostics" format="dita" audience="CongaPlatform">
+            <topicref href="https://documentation.conga.com/display/CPQ/Scheduled+Jobs?src=contextnavpagetreemode" navtitle="Scheduled Jobs" format="dita" audience="CongaPlatform">
+               <topicref href="https://documentation.conga.com/display/CPQ/Publisher?src=contextnavpagetreemode" navtitle="Publisher" format="dita" audience="CongaPlatform"/>
+            </topicref>
+         </topicref>
+      </topicref>
+      <topicref href="208508252.dita" navtitle="Managing Products" format="dita" audience="Salesforce">
+         <topicref href="208508096.dita" navtitle="About Products" format="dita" audience="Salesforce">
+            <topicref href="208508145.dita" navtitle="Navigating the Product Page" format="dita" audience="Salesforce"/>
+            <topicref href="252346766.dita" navtitle="Creating Products" format="dita" audience="Salesforce"/>
+            <topicref href="208508110.dita" navtitle="Cloning Products" format="dita" audience="Salesforce"/>
+            <topicref href="143197244.dita" navtitle="Configuring Product Families" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197246.dita" navtitle="Managing Categories and Hierarchies" format="dita" audience="Salesforce">
+            <topicref href="143197247.dita" navtitle="Creating Categories" format="dita" audience="Salesforce"/>
+            <topicref href="143197248.dita" navtitle="Creating Category Hierarchies" format="dita" audience="Salesforce">
+               <topicref href="152574045.dita" navtitle="Adding Sub-Categories" format="dita" audience="Salesforce"/>
+               <topicref href="143197250.dita" navtitle="Removing Sub-Categories" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197251.dita" navtitle="Associating Products to a Category" format="dita" audience="Salesforce"/>
+            <topicref href="143197252.dita" navtitle="Associating Categories to a Product" format="dita" audience="Salesforce"/>
+            <topicref href="143197253.dita" navtitle="Sequencing Products within a Category" format="dita" audience="Salesforce"/>
+            <topicref href="143197254.dita" navtitle="Reordering Root Categories on the Catalog Page" format="dita" audience="Salesforce"/>
+            <topicref href="158336253.dita" navtitle="Running a Category Maintenance Job" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197256.dita" navtitle="Managing Bundles" format="dita" audience="Salesforce">
+            <topicref href="152570881.dita" navtitle="Creating Option Groups" format="dita" audience="Salesforce"/>
+            <topicref href="143197258.dita" navtitle="Associating Options to an Option Group" format="dita" audience="Salesforce"/>
+            <topicref href="184422921.dita" navtitle="Associating Options to a Bundle" format="dita" audience="Salesforce">
+               <topicref href="165939695.dita" navtitle="Excluding Optional Product in Min/Max Criteria" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197260.dita" navtitle="Configuring Multi-Level Bundles" format="dita" audience="Salesforce"/>
+            <topicref href="143197261.dita" navtitle="Cloning a Bundle within the same Quote" format="dita" audience="Salesforce"/>
+            <topicref href="148112332.dita" navtitle="Configuring Bundle Expansion on Cart Page" format="dita" audience="Salesforce"/>
+            <topicref href="158336259.dita" navtitle="Running a Bundle Maintenance Batch Job" format="dita" audience="Salesforce"/>
+            <topicref href="222432615.dita" navtitle="Distinguishing Cloned Options on the Bundle Configuration Page" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197263.dita" navtitle="Managing Product Groups" format="dita" audience="Salesforce">
+            <topicref href="152571210.dita" navtitle="Creating Product Groups" format="dita" audience="Salesforce"/>
+            <topicref href="143197265.dita" navtitle="Associating Products to a Product Group" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197266.dita" navtitle="Creating and Maintaining Attributes" format="dita" audience="Salesforce">
+            <topicref href="143197267.dita" navtitle="Creating Product Attribute Fields" format="dita" audience="Salesforce"/>
+            <topicref href="143197268.dita" navtitle="Creating Product Attribute Groups" format="dita" audience="Salesforce"/>
+            <topicref href="222431045.dita" navtitle="Associating Attribute Groups to a Product" format="dita" audience="Salesforce"/>
+            <topicref href="143197270.dita" navtitle="Setting the Default Price from Attributes Using a Formula Field" format="dita" audience="Salesforce"/>
+            <topicref href="158336298.dita" navtitle="Cascading Shared Attribute Values" format="dita" audience="Salesforce"/>
+            <topicref href="158336300.dita" navtitle="Classifying Attributes" format="dita" audience="Salesforce"/>
+            <topicref href="158335486.dita" navtitle="Enabling Optimized Attribute Retrieval" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197274.dita" navtitle="Configuring Product Visibility" format="dita" audience="Salesforce">
+            <topicref href="143197275.dita" navtitle="About Refine Your Search" format="dita" audience="Salesforce">
+               <topicref href="143197276.dita" navtitle="Configuring the Custom Fields" format="dita" audience="Salesforce"/>
+               <topicref href="143197277.dita" navtitle="Configuring Search Filter Fields" format="dita" audience="Salesforce"/>
+               <topicref href="143197278.dita" navtitle="Configuring Refine Your Search Options" format="dita" audience="Salesforce"/>
+               <topicref href="143197279.dita" navtitle="Selecting Search Field Values for a Product" format="dita" audience="Salesforce"/>
+               <topicref href="143197280.dita" navtitle="Configuring Refine Your Search with Dynamic Filter Values" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="169287472.dita" navtitle="About Search Filters (CPQ)" format="dita" audience="Salesforce">
+               <topicref href="143197282.dita" navtitle="Configuring Search Filter (CPQ)" format="dita" audience="Salesforce"/>
+               <topicref href="143902913.dita" navtitle="Creating Visibility Rules" format="dita" audience="Salesforce"/>
+               <topicref href="143197284.dita" navtitle="Use Case: Configuring Category Visibility" format="dita" audience="Salesforce"/>
+            </topicref>
+         </topicref>
+         <topicref href="143197285.dita" navtitle="Configuring Product Comparison" format="dita" audience="Salesforce">
+            <topicref href="143197286.dita" navtitle="Setting Up Feature Sets" format="dita" audience="Salesforce"/>
+            <topicref href="143197287.dita" navtitle="Associating Feature Sets to a Product" format="dita" audience="Salesforce"/>
+            <topicref href="143197288.dita" navtitle="Defining Feature Values for a Product" format="dita" audience="Salesforce"/>
+            <topicref href="143197289.dita" navtitle="Hiding Products Comparison" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="190353587.dita" navtitle="Configuring Numeric Expressions" format="dita" audience="Salesforce">
+            <topicref href="143197291.dita" navtitle="Populating Product Attribute values Using Numeric Expression" format="dita" audience="Salesforce"/>
+            <topicref href="143197292.dita" navtitle="Populating Option Group Min/Max Quantities Using Numeric Expression" format="dita" audience="Salesforce"/>
+            <topicref href="143197293.dita" navtitle="Populating Option Default and Min/Max Quantity Using Numeric Expression" format="dita" audience="Salesforce"/>
+            <topicref href="143197294.dita" navtitle="About Manage Field Expressions Page" format="dita" audience="Salesforce"/>
+            <topicref href="143197295.dita" navtitle="Running the Criteria Maintenance Job for Expression Fields" format="dita" audience="Salesforce"/>
+            <topicref href="143197296.dita" navtitle="Creating Numeric Roll-Up Summary Fields for Objects" format="dita" audience="Salesforce">
+               <topicref href="188842248.dita" navtitle="About Manage Rollups Page" format="dita" audience="Salesforce"/>
+               <topicref href="193692974.dita" navtitle="About Rollup Scope" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197298.dita" navtitle="Examples and Related Syntax for Numeric Expressions" format="dita" audience="Salesforce"/>
+         </topicref>
+      </topicref>
+      <topicref href="143197299.dita" navtitle="Managing Product Rules" format="dita" audience="Salesforce">
+         <topicref href="158336269.dita" navtitle="About Manage Rules Page" format="dita" audience="Salesforce"/>
+         <topicref href="247532598.dita" navtitle="Managing Constraint Rules" format="dita" audience="Salesforce">
+            <topicref href="190353339.dita" navtitle="Creating Constraint Rules" format="dita" audience="Salesforce"/>
+            <topicref href="208509129.dita" navtitle="Creating Constraint Rule Conditions" format="dita" audience="Salesforce"/>
+            <topicref href="208508442.dita" navtitle="Creating Constraint Rule Actions" format="dita" audience="Salesforce"/>
+            <topicref href="143197305.dita" navtitle="Translating Custom Messages for Constraint Rules" format="dita" audience="Salesforce"/>
+            <topicref href="190352274.dita" navtitle="Running the Constraint Rule Maintenance Job" format="dita" audience="Salesforce"/>
+            <topicref href="252346507.dita" navtitle="Configuring Inclusion Rules" format="dita" audience="Salesforce"/>
+            <topicref href="143890107.dita" navtitle="Configuring Exclusion Rules" format="dita" audience="Salesforce"/>
+            <topicref href="143197309.dita" navtitle="Configuring Validation Rules" format="dita" audience="Salesforce"/>
+            <topicref href="143197310.dita" navtitle="Configuring Product Option Group in Product Scope" format="dita" audience="Salesforce"/>
+            <topicref href="143197311.dita" navtitle="Scenarios for Using Constraint Rules" format="dita" audience="Salesforce"/>
+            <topicref href="161154556.dita" navtitle="Disabling Constraint Rule Execution upon Cart Finalization" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197312.dita" navtitle="Managing Attribute-Based Configuration" format="dita" audience="Salesforce">
+            <topicref href="222429835.dita" navtitle="Creating Product Attribute Values" format="dita" audience="Salesforce">
+               <topicref href="222431782.dita" navtitle="About Product Attribute Value Extensions" format="dita" audience="Salesforce"/>
+               <topicref href="208507138.dita" navtitle="Creating Custom Product Attribute Value Extensions" format="dita" audience="Salesforce"/>
+               <topicref href="222431805.dita" navtitle="Migrating Attributes from Custom PAV Extension Objects to Out-of-the-Box PAV Extension Objects" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197316.dita" navtitle="Creating Attributes in the Attribute Value Matrix Entry Object" format="dita" audience="Salesforce"/>
+            <topicref href="143197317.dita" navtitle="Creating Attribute Value Matrices" format="dita" audience="Salesforce"/>
+            <topicref href="248545563.dita" navtitle="Creating Product Attribute Rules" format="dita" audience="Salesforce">
+               <topicref href="143197319.dita" navtitle="Allowing Values Conditionally for a Picklist or Multi-Select Picklist Attribute" format="dita" audience="Salesforce"/>
+               <topicref href="143197320.dita" navtitle="Configuring Default Values Conditionally for Attributes" format="dita" audience="Salesforce"/>
+               <topicref href="143197321.dita" navtitle="Hiding Attributes Conditionally" format="dita" audience="Salesforce"/>
+               <topicref href="143197322.dita" navtitle="Configuring Attributes Conditionally as Disabled" format="dita" audience="Salesforce"/>
+               <topicref href="143197323.dita" navtitle="Configuring Attributes Conditionally as Required" format="dita" audience="Salesforce"/>
+               <topicref href="143197324.dita" navtitle="Resetting Attributes Conditionally" format="dita" audience="Salesforce"/>
+               <topicref href="143197325.dita" navtitle="Scenario to Use Product Attribute Rules with Criteria" format="dita" audience="Salesforce"/>
+            </topicref>
+         </topicref>
+      </topicref>
+      <topicref href="143197326.dita" navtitle="Managing Pricing" format="dita" audience="Salesforce">
+         <topicref href="143197327.dita" navtitle="Managing Price Lists and Price List Items" format="dita" audience="Salesforce">
+            <topicref href="143197328.dita" navtitle="Creating Price Lists" format="dita" audience="Salesforce"/>
+            <topicref href="143197329.dita" navtitle="Associate a Price List with Categories" format="dita" audience="Salesforce"/>
+            <topicref href="143197330.dita" navtitle="Viewing and Publishing Favorite Configurations for a Price List" format="dita" audience="Salesforce"/>
+            <topicref href="208508423.dita" navtitle="Creating Price List Items" format="dita" audience="Salesforce">
+               <topicref href="158336193.dita" navtitle="Adding Additional Details to a Price List Item" format="dita" audience="Salesforce"/>
+               <topicref href="143197333.dita" navtitle="Adjusting Options Pricing for a Bundle Manually" format="dita" audience="Salesforce"/>
+               <topicref href="143197334.dita" navtitle="Applying Price Matrices from the Matrices Tab" format="dita" audience="Salesforce"/>
+               <topicref href="213451128.dita" navtitle="Applying the Default Pricing to Products" format="dita" audience="Salesforce"/>
+               <topicref href="143197336.dita" navtitle="Defining Tax and Billing for Products" format="dita" audience="Salesforce"/>
+               <topicref href="143197337.dita" navtitle="Defining Finance and Revenue for Products" format="dita" audience="Salesforce"/>
+               <topicref href="143197338.dita" navtitle="Applying Miscellaneous Pricing to Products" format="dita" audience="Salesforce"/>
+               <topicref href="143197339.dita" navtitle="Configuring Charge Type Frequency as Weekly" format="dita" audience="Salesforce"/>
+               <topicref href="143903891.dita" navtitle="Disabling Time Adjustment in Price List Item Fields" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="213459212.dita" navtitle="Configuring Price Escalators" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="239542656.dita" navtitle="Managing Price Rules" format="dita" audience="Salesforce">
+            <topicref href="235407483.dita" navtitle="Creating Price Rulesets" format="dita" audience="Salesforce"/>
+            <topicref href="188842310.dita" navtitle="Creating Price Rules" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197344.dita" navtitle="Creating Price Matrices and Dimensions" format="dita" audience="Salesforce">
+            <topicref href="213458329.dita" navtitle="Creating Price Dimensions" format="dita" audience="Salesforce"/>
+            <topicref href="188842294.dita" navtitle="Creating Price Matrices" format="dita" audience="Salesforce">
+               <topicref href="152568145.dita" navtitle="Use Case: Using a CPQ Formula Field in Price Matrix" format="dita" audience="Salesforce"/>
+            </topicref>
+         </topicref>
+         <topicref href="152568105.dita" navtitle="Managing CPQ Formula Fields" format="dita" audience="Salesforce"/>
+         <topicref href="143197348.dita" navtitle="Configuring Related Pricing" format="dita" audience="Salesforce">
+            <topicref href="179208354.dita" navtitle="Disabling Related Price Ramp Overlap" format="dita" audience="CongaPlatform"/>
+            <topicref href="190354247.dita" navtitle="Use Cases: Related Pricing" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197349.dita" navtitle="Enabling Price Ramps" format="dita" audience="Salesforce"/>
+         <topicref href="208508064.dita" navtitle="Enabling Auto Ramp Creation" format="dita" audience="Salesforce"/>
+         <topicref href="222431987.dita" navtitle="Enabling Tiered Pricing" format="dita" audience="Salesforce"/>
+         <topicref href="143197352.dita" navtitle="Running a Criteria Maintenance Job" format="dita" audience="Salesforce"/>
+         <topicref href="143197353.dita" navtitle="Configuring Contract Pricing" format="dita" audience="Salesforce">
+            <topicref href="143197354.dita" navtitle="Configuring Contract Price Lists" format="dita" audience="Salesforce"/>
+            <topicref href="143197355.dita" navtitle="Defining Contracts to be Used in a Quote" format="dita" audience="Salesforce"/>
+            <topicref href="154937860.dita" navtitle="Defining Multiple Contracts to be Used in a Quote" format="dita" audience="Salesforce"/>
+            <topicref href="152574053.dita" navtitle="Configuring Contract Pricing through Price Agreements" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197358.dita" navtitle="Configuring Pricing Profiles and Pricing Batch Size" format="dita" audience="Salesforce"/>
+         <topicref href="143197359.dita" navtitle="Configuring Email Notifications for Apex Governor Limit Warning" format="dita" audience="Salesforce"/>
+         <topicref href="158336320.dita" navtitle="Managing Cost and Profitability (Cost Breakdown)" format="dita" audience="Salesforce">
+            <topicref href="143197361.dita" navtitle="Defining Cost Models" format="dita" audience="Salesforce"/>
+            <topicref href="143197362.dita" navtitle="Associating Cost Models with a Price List" format="dita" audience="Salesforce"/>
+            <topicref href="143197363.dita" navtitle="Configuring the Analyze Quote Page" format="dita" audience="Salesforce"/>
+            <topicref href="158336364.dita" navtitle="Storing the Price of Products" format="dita" audience="Salesforce"/>
+            <topicref href="143197365.dita" navtitle="Configuring Transfer Pricing" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197366.dita" navtitle="Configuring Unit of Measure (UOM) and Frequency Conversion Rate" format="dita" audience="Salesforce"/>
+         <topicref href="143904410.dita" navtitle="Configuring the Currency Rounding Mode" format="dita" audience="Salesforce"/>
+         <topicref href="235410491.dita" navtitle="Managing Currency Conversion" format="dita" audience="Salesforce"/>
+         <topicref href="218827758.dita" navtitle="Managing Price Waterfall" format="dita" audience="Salesforce">
+            <topicref href="154927143.dita" navtitle="Defining Price Points" format="dita" audience="Salesforce"/>
+            <topicref href="218827754.dita" navtitle="Configuring a Price Pipeline" format="dita" audience="Salesforce">
+               <topicref href="181309674.dita" navtitle="Configuring Price Waterfall to a Price Pipeline" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="181309680.dita" navtitle="Configuring Price Pipeline Ruleset" format="dita" audience="Salesforce">
+               <topicref href="181307427.dita" navtitle="Creating Price Pipeline Rules" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="https://documentation.conga.com/display/CPQ/Configuring+Visualforce+Page+for+Price+Waterfall+Section?src=contextnavpagetreemode" navtitle="Configuring Visualforce Page for Price Waterfall Section" format="dita" audience="CongaPlatform"/>
+         </topicref>
+      </topicref>
+      <topicref href="143197369.dita" navtitle="Managing Quotes or Proposals" format="dita" audience="Salesforce">
+         <topicref href="231214972.dita" navtitle="Enabling Quote Collaboration in the Org" format="dita" audience="Salesforce">
+            <topicref href="143197371.dita" navtitle="Configuring the Collaboration Dialog Box" format="dita" audience="Salesforce"/>
+            <topicref href="143197372.dita" navtitle="Configuring the Default User or Queue Setup" format="dita" audience="Salesforce"/>
+            <topicref href="239542791.dita" navtitle="Configuring Real-Time Cart Notifications" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="176293544.dita" navtitle="Enabling Cart Locking for Concurrent Access" format="dita" audience="Salesforce"/>
+         <topicref href="143197375.dita" navtitle="Enabling PDF Security for Generated Proposal Documents" format="dita" audience="Salesforce"/>
+         <topicref href="158343676.dita" navtitle="Configuring Quick Quote Mode" format="dita" audience="Salesforce"/>
+         <topicref href="143197377.dita" navtitle="Customizing Visualforce Pages" format="dita" audience="Salesforce">
+            <topicref href="https://documentation.conga.com/display/CPQ/.Configuring+Display+Columns+Settings+vJune-23?src=contextnavpagetreemode" navtitle="Configuring Display Column Settings" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.Configuring+Display+Actions+Settings+vJune-23?src=contextnavpagetreemode" navtitle="Configuring Display Action Settings" format="dita" audience="Salesforce"/>
+            <topicref href="143197380.dita" navtitle="Configuring Custom Actions for Auto-Synch of Cart Lines" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="181308393.dita" navtitle="Disabling the Clone Icon on the Cart Page" format="dita" audience="Salesforce"/>
+         <topicref href="143197381.dita" navtitle="Configuring Flows" format="dita" audience="Salesforce"/>
+         <topicref href="190353401.dita" navtitle="Configuring Enterprise QTC Profile Value for Quote" format="dita" audience="Salesforce"/>
+         <topicref href="225249362.dita" navtitle="Configuring Progress Tracker for Async Operation" format="dita" audience="Salesforce">
+            <topicref href="176294182.dita" navtitle="Turning off Async Operation Email Notification" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="165939416.dita" navtitle="Configuring Push Alerts" format="dita" audience="Salesforce"/>
+         <topicref href="248545653.dita" navtitle="Configuring Document Generation for Quote" format="dita" audience="Salesforce"/>
+         <topicref href="158336288.dita" navtitle="Configuring Conga Sign for eSignature" format="dita" audience="Salesforce"/>
+         <topicref href="154937835.dita" navtitle="Creating Promotional Banners" format="dita" audience="Salesforce"/>
+         <topicref href="143197384.dita" navtitle="Configuring Product Footnotes" format="dita" audience="Salesforce"/>
+         <topicref href="143197385.dita" navtitle="Retaining the Order of Line Items in a Generated Proposal Document" format="dita" audience="Salesforce"/>
+         <topicref href="193692765.dita" navtitle="Adding a Link to Quote in Cart Finalize Notification Email Template" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="152571525.dita" navtitle="Managing Guided Selling" format="dita" audience="Salesforce">
+         <topicref href="152571511.dita" navtitle="Creating Custom Fields in the Search Attribute Value Object" format="dita" audience="CongaPlatform"/>
+         <topicref href="152571508.dita" navtitle="Creating a Sample Flow Using Flow Designer" format="dita" audience="CongaPlatform"/>
+         <topicref href="152571503.dita" navtitle="Creating a Guided Selling Visualforce Page" format="dita" audience="CongaPlatform"/>
+         <topicref href="152571497.dita" navtitle="Defining Guided Selling Rules" format="dita" audience="CongaPlatform"/>
+      </topicref>
+      <topicref href="158336385.dita" navtitle="Managing Promotions" format="dita" audience="Salesforce">
+         <topicref href="158336382.dita" navtitle="Usage of Promotions" format="dita" audience="Salesforce"/>
+         <topicref href="158336390.dita" navtitle="About Promotions Workflow" format="dita" audience="Salesforce"/>
+         <topicref href="158336404.dita" navtitle="Types of Promotions" format="dita" audience="Salesforce"/>
+         <topicref href="158336394.dita" navtitle="Configuring Promotions" format="dita" audience="Salesforce">
+            <topicref href="143197399.dita" navtitle="Preparing Data for Promotions" format="dita" audience="Salesforce">
+               <topicref href="176294687.dita" navtitle="Defining User Profiles and Permissions" format="dita" audience="Salesforce"/>
+               <topicref href="143197401.dita" navtitle="Configuring Incentive Records" format="dita" audience="Salesforce"/>
+               <topicref href="143197402.dita" navtitle="Creating Price Dimensions for a Promotion" format="dita" audience="Salesforce"/>
+               <topicref href="143197403.dita" navtitle="Creating Formula Fields for Lookup Objects" format="dita" audience="Salesforce"/>
+               <topicref href="143197404.dita" navtitle="Creating Child Filters" format="dita" audience="Salesforce"/>
+               <topicref href="158336407.dita" navtitle="Creating Approval Workflows for Promotions" format="dita" audience="Salesforce"/>
+               <topicref href="252349184.dita" navtitle="Configuring Data Rollups for Promotions" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197407.dita" navtitle="Defining Promotions" format="dita" audience="Salesforce">
+               <topicref href="222429684.dita" navtitle="Defining the Information of a Promotion" format="dita" audience="Salesforce"/>
+               <topicref href="250773547.dita" navtitle="Defining the Scope of a Promotion" format="dita" audience="Salesforce"/>
+               <topicref href="176293822.dita" navtitle="Defining the Criteria of a Promotion" format="dita" audience="Salesforce"/>
+               <topicref href="193692753.dita" navtitle="Defining the Benefits of a Promotion" format="dita" audience="Salesforce"/>
+               <topicref href="222429369.dita" navtitle="Defining the Limits of a Promotion" format="dita" audience="Salesforce"/>
+               <topicref href="143197413.dita" navtitle="Generating Coupons for a Promotion" format="dita" audience="Salesforce"/>
+               <topicref href="143197414.dita" navtitle="Viewing the Summary of a Promotion" format="dita" audience="Salesforce"/>
+               <topicref href="143903822.dita" navtitle="Defining Batch Size to Process Line Items with Promotions" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197415.dita" navtitle="Adding Custom Fields to the Promotion Information Page" format="dita" audience="Salesforce"/>
+            <topicref href="143197416.dita" navtitle="Configuring the Apply Promotion Window" format="dita" audience="Salesforce"/>
+            <topicref href="143197417.dita" navtitle="Use Case: Configuring a Promotion for the Total Price on the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="150506877.dita" navtitle="Configuring Promotions on Benefit Products in Buy X Get Y" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197418.dita" navtitle="Applying Promotions for eCommerce Orders" format="dita" audience="Salesforce"/>
+         <topicref href="143197419.dita" navtitle="Analyzing Promotions" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="143197420.dita" navtitle="Configuring Assets" format="dita" audience="Salesforce">
+         <topicref href="143197421.dita" navtitle="About Asset and Asset Line Item" format="dita" audience="Salesforce"/>
+         <topicref href="143197422.dita" navtitle="Asset-Based Ordering Packages Required" format="dita" audience="Salesforce"/>
+         <topicref href="143197423.dita" navtitle="Configuring Asset-Based Ordering" format="dita" audience="Salesforce">
+            <topicref href="143197424.dita" navtitle="About Asset Management Flows" format="dita" audience="Salesforce">
+               <topicref href="158336414.dita" navtitle="Configuring Asset Management Flows" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197426.dita" navtitle="Configuring Asset-based Pricing" format="dita" audience="Salesforce">
+               <topicref href="190352387.dita" navtitle="Configuring Asset-Based Pricing without Workflow Rules" format="dita" audience="Salesforce"/>
+               <topicref href="213459233.dita" navtitle="Overriding the Default Asset Pricing for Line Statuses Based on ABO Actions" format="dita" audience="Salesforce">
+                  <topicref href="203494343.dita" navtitle="Use Case: Switching Between Asset Price and PLI Price" format="dita" audience="Salesforce"/>
+               </topicref>
+            </topicref>
+            <topicref href="235407923.dita" navtitle="Configuring the Installed Products Page" format="dita" audience="Salesforce">
+               <topicref href="143197430.dita" navtitle="Accessing the Installed Products Page" format="dita" audience="Salesforce"/>
+               <topicref href="143197431.dita" navtitle="Configuring Column Settings for the Installed Products Page" format="dita" audience="Salesforce"/>
+               <topicref href="143197432.dita" navtitle="Defining the Number of Products Displayed on the Installed Products Page" format="dita" audience="Salesforce"/>
+               <topicref href="222431059.dita" navtitle="Configuring Asset Visibility on the Installed Products Page" format="dita" audience="Salesforce"/>
+               <topicref href="143197434.dita" navtitle="Creating Search Filters for the Installed Products Page" format="dita" audience="Salesforce"/>
+               <topicref href="161153201.dita" navtitle="Displaying Assets from Multiple Accounts on the Installed Products Page" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197435.dita" navtitle="Configuring Lookup Field Settings for Asset-Based Ordering" format="dita" audience="Salesforce"/>
+            <topicref href="252346436.dita" navtitle="Defining Allowed Actions for Assets" format="dita" audience="Salesforce"/>
+            <topicref href="158336437.dita" navtitle="About Integration of Assets with Contracts" format="dita" audience="Salesforce"/>
+            <topicref href="143197438.dita" navtitle="Creating Approval Workflows for Asset-Based Ordering" format="dita" audience="Salesforce"/>
+            <topicref href="143197439.dita" navtitle="Configuring Mass Update for Assets" format="dita" audience="Salesforce"/>
+            <topicref href="246580575.dita" navtitle="Creating Replacement Rules to Swap Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197441.dita" navtitle="Configuring the Custom Attributes Page" format="dita" audience="Salesforce"/>
+            <topicref href="143197442.dita" navtitle="Configuring Auto Renewal of Assets" format="dita" audience="Salesforce">
+               <topicref href="158335496.dita" navtitle="Configuring Renewal Settings" format="dita" audience="Salesforce"/>
+               <topicref href="143197444.dita" navtitle="Configuring Asset Renewal in Auto Renewal Mode" format="dita" audience="Salesforce"/>
+               <topicref href="143197445.dita" navtitle="Configuring Asset Renewal in OnDemand Renewal Mode" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="158336474.dita" navtitle="Configuring Agreement-Based Renewals" format="dita" audience="Salesforce"/>
+            <topicref href="143197447.dita" navtitle="About Extending the Lead Time Functionality" format="dita" audience="Salesforce"/>
+         </topicref>
+      </topicref>
+      <topicref href="158336444.dita" navtitle="Configuring Service CPQ" format="dita" audience="Salesforce">
+         <topicref href="158336449.dita" navtitle="Configuring Service Pricing" format="dita" audience="Salesforce"/>
+         <topicref href="158336454.dita" navtitle="Defining Service Line Split Criteria" format="dita" audience="Salesforce"/>
+         <topicref href="158336462.dita" navtitle="Synchronizing Related Line Items with Opportunity Line Items" format="dita" audience="Salesforce"/>
+         <topicref href="176294606.dita" navtitle="Configuring the Execution of the RelatedLineItem Trigger" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="143197452.dita" navtitle="Configuring the Cart" format="dita" audience="Salesforce">
+         <topicref href="154937657.dita" navtitle="Configuring Flow Settings" format="dita" audience="Salesforce"/>
+         <topicref href="165940353.dita" navtitle="Creating Custom Buttons for Different Flows" format="dita" audience="Salesforce">
+            <topicref href="143197455.dita" navtitle="Accessing the Cart in Read-Only Mode" format="dita" audience="Salesforce"/>
+            <topicref href="193692938.dita" navtitle="Configuring Custom Button to Access Configuration Page Directly" format="dita" audience="Salesforce"/>
+            <topicref href="176293843.dita" navtitle="Configuring a Custom Button to Launch the Installed Products Page Directly for the Add/Remove Flow" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197457.dita" navtitle="Sorting Main Categories on the Catalog Page" format="dita" audience="Salesforce"/>
+         <topicref href="143197458.dita" navtitle="Configuring the Location-Based Cart" format="dita" audience="Salesforce"/>
+         <topicref href="143197459.dita" navtitle="Configuring Column Settings on the Cart and Installed Products Page" format="dita" audience="Salesforce"/>
+         <topicref href="143197460.dita" navtitle="Configuring the Number of Products Displayed on the Catalog Page" format="dita" audience="Salesforce"/>
+         <topicref href="143197461.dita" navtitle="Configuring Custom Attribute Pages" format="dita" audience="Salesforce"/>
+         <topicref href="143197462.dita" navtitle="Hiding the Add to Cart and Configure Buttons for Option Products" format="dita" audience="Salesforce"/>
+         <topicref href="143197463.dita" navtitle="Displaying Leaf Products on the Catalog Page" format="dita" audience="Salesforce"/>
+         <topicref href="143197464.dita" navtitle="Cloning Sub-Bundles, Options, and Attributes on the Options Page" format="dita" audience="Salesforce"/>
+         <topicref href="195698721.dita" navtitle="Enabling Multiple Adjustments at the Line-Item Level" format="dita" audience="Salesforce"/>
+         <topicref href="158336440.dita" navtitle="Configuring Option Net Adjustment Rollup to Bundle" format="dita" audience="Salesforce"/>
+         <topicref href="143197467.dita" navtitle="Enabling Price Breakup for Products" format="dita" audience="Salesforce"/>
+         <topicref href="143197468.dita" navtitle="Displaying Attributes and Options Inline on the Configuration page or a Visualforce Page" format="dita" audience="Salesforce"/>
+         <topicref href="158336487.dita" navtitle="Sequencing the Favorite Category on the Catalog Page" format="dita" audience="Salesforce"/>
+         <topicref href="143197470.dita" navtitle="Configuring the Number of Option Products Displayed on the Cart" format="dita" audience="Salesforce"/>
+         <topicref href="143197471.dita" navtitle="Configuring Save as Favorite" format="dita" audience="Salesforce"/>
+         <topicref href="163940257.dita" navtitle="Configuring the Smart Cart" format="dita" audience="Salesforce">
+            <topicref href="143197473.dita" navtitle="Use Case for Configuring the Smart Cart" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169282837.dita" navtitle="Configuring Product Sort" format="dita" audience="Salesforce"/>
+         <topicref href="143197475.dita" navtitle="Configuring Cart Views" format="dita" audience="Salesforce">
+            <topicref href="143197476.dita" navtitle="About Cart Views" format="dita" audience="Salesforce"/>
+            <topicref href="143197477.dita" navtitle="Enabling Cart View Creation in CPQ Admin Console" format="dita" audience="Salesforce"/>
+            <topicref href="143197478.dita" navtitle="Running the Migration Script for Cart Views" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143903247.dita" navtitle="Configuring Cart Activity History" format="dita" audience="Salesforce"/>
+         <topicref href="165938672.dita" navtitle="Configuring CSS Override" format="dita" audience="Salesforce"/>
+         <topicref href="169283790.dita" navtitle="Configuring Mass Option Selection on the Configuration Page" format="dita" audience="Salesforce"/>
+         <topicref href="169287582.dita" navtitle="Configuring Express Proposal" format="dita" audience="Salesforce"/>
+         <topicref href="195694229.dita" navtitle="Controlling the Display of Quotes on Click of the View Button" format="dita" audience="CongaPlatform"/>
+         <topicref href="203493650.dita" navtitle="Defining the Number of Columns to Load on the Cart" format="dita" audience="CongaPlatform"/>
+      </topicref>
+      <topicref href="150503537.dita" navtitle="Managing Translation of Fields and Values in Different Language" format="dita" audience="Salesforce">
+         <topicref href="152571602.dita" navtitle="Translating CPQ Record Values" format="dita" audience="Salesforce"/>
+         <topicref href="152568110.dita" navtitle="Translation of Field Labels" format="dita" audience="Salesforce">
+            <topicref href="150503589.dita" navtitle="Translating Standard and Custom Field Labels" format="dita" audience="Salesforce"/>
+            <topicref href="152571598.dita" navtitle="Translating and Overriding Managed Packaged Field Label" format="dita" audience="Salesforce">
+               <topicref href="152572956.dita" navtitle="Use Case: Overriding Label of a Button" format="dita" audience="Salesforce"/>
+               <topicref href="152572514.dita" navtitle="Use Case: Translating Label of a Button" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="169285516.dita" navtitle="Using Translated Picklist Values in Document Generation" format="dita" audience="Salesforce"/>
+         </topicref>
+      </topicref>
+      <topicref href="225251181.dita" navtitle="Customizing CPQ Using Callbacks" format="dita" audience="Salesforce">
+         <topicref href="143197480.dita" navtitle="Display Action Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="208504728.dita" navtitle="Product Filter Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="239545155.dita" navtitle="Option Filter Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="https://documentation.conga.com/display/CPQ/Adjustment+Line+Item+Callback+Class?src=contextnavpagetreemode" navtitle="Adjustment Line Item Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="239541958.dita" navtitle="Validation Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="195695219.dita" navtitle="Pricing Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="208504883.dita" navtitle="Pricing Extension Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="143197487.dita" navtitle="Product Attribute Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="143197488.dita" navtitle="Related Pricing Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="161153423.dita" navtitle="Asset Line Item Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="143197490.dita" navtitle="Asset Renewal Custom Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="143197491.dita" navtitle="Revalidation Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="158336272.dita" navtitle="Action Params Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="158336275.dita" navtitle="Action Invoker Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="158336307.dita" navtitle="Action Callback Class" format="dita" audience="Salesforce">
+            <topicref href="158336313.dita" navtitle="IActionCallback2 Interface" format="dita" audience="Salesforce"/>
+            <topicref href="158336311.dita" navtitle="IActionCallback3 Interface" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="152574058.dita" navtitle="Cart Approval Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="152574061.dita" navtitle="Deal Optimizer Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="158336479.dita" navtitle="Adjustment Spread Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="158336477.dita" navtitle="Lifecycle Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="143903319.dita" navtitle="Tax Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="150503593.dita" navtitle="Formula Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="150503597.dita" navtitle="Metadata Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="152568063.dita" navtitle="Recommendation Callback Class" format="dita" audience="Salesforce"/>
+         <topicref href="161153600.dita" navtitle="Advanced Approval Callback Class" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="249563261.dita" navtitle="Configuring Admin Settings" format="dita" audience="Salesforce"/>
+      <topicref href="158343714.dita" navtitle="Glossary of CPQ terms" format="dita" audience="CongaPlatform"/>
+      <topicref href="222431815.dita" navtitle="Frequently Asked Questions" format="dita" audience="Salesforce"/>
+      <topicref href="195693391.dita" navtitle="Conga Contact Support" format="dita" audience="Salesforce"/>
+      <topicref href="181310152.dita" navtitle="System Fields" format="dita" audience="Salesforce"/>
+      <topicref href="249563880.dita" navtitle="Customizing CPQ on Conga Platform Using Callback Classes" format="dita" audience="CongaPlatform">
+         <topicref href="248546282.dita" navtitle="Validation Callback Class on Conga Platform" format="dita" audience="CongaPlatform"/>
+         <topicref href="248546472.dita" navtitle="Recommendation Callback Class on Conga Platform" format="dita" audience="CongaPlatform"/>
+         <topicref href="https://documentation.conga.com/display/CPQ/.Option+Filter+Callback+Class+on+Conga+Platform+vFebruary-24?src=contextnavpagetreemode" navtitle="Option Filter Callback Class on Conga Platform" format="dita" audience="CongaPlatform"/>
+         <topicref href="247532824.dita" navtitle="Pricing Callback Class on Conga Platform" format="dita" audience="CongaPlatform"/>
+         <topicref href="248546174.dita" navtitle="Revalidation Callback Class on Conga Platform" format="dita" audience="CongaPlatform"/>
+         <topicref href="https://documentation.conga.com/display/CPQ/Display+Action+Callback+on+Conga+Platform?src=contextnavpagetreemode" navtitle="Display Action Callback on Conga Platform" format="dita" audience="CongaPlatform"/>
+         <topicref href="248546513.dita" navtitle="Cart Lifecycle Callback Class on Conga Platform" format="dita" audience="CongaPlatform"/>
+         <topicref href="248546572.dita" navtitle="Asset Filter Callback Class on Conga Platform" format="dita" audience="CongaPlatform"/>
+      </topicref>
+   </topicref>
+   <topicref href="239548754.dita" navtitle="CPQ for Users" format="dita" audience="Salesforce">
+      <topicref href="239548761.dita" navtitle="Getting Started" format="dita" audience="Salesforce">
+         <topicref href="239548771.dita" navtitle="About System Requirements" format="dita" audience="Salesforce"/>
+         <topicref href="239549271.dita" navtitle="Logging on to CPQ" format="dita" audience="Salesforce"/>
+         <topicref href="239548899.dita" navtitle="About CPQ User Interface" format="dita" audience="Salesforce">
+            <topicref href="143197512.dita" navtitle="Creating Views" format="dita" audience="Salesforce"/>
+            <topicref href="184419441.dita" navtitle="About Dashboards" format="dita" audience="Salesforce"/>
+            <topicref href="169285295.dita" navtitle="About Reports" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.About+Reports+%28Backup%29+vMay-22?src=contextnavpagetreemode" navtitle="About Reports (Backup)" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.About+Dashboards+%28Backup%29+vMay-22?src=contextnavpagetreemode" navtitle="About Dashboards (Backup)" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/About+Proposal+Details+Page?src=contextnavpagetreemode" navtitle="About Proposal Details Page" format="dita" audience="CongaPlatform"/>
+         </topicref>
+      </topicref>
+      <topicref href="239549037.dita" navtitle="Creating Quotes" format="dita" audience="Salesforce">
+         <topicref href="143197516.dita" navtitle="Creating Opportunities in Salesforce" format="dita" audience="Salesforce"/>
+         <topicref href="190353443.dita" navtitle="Creating Quotes from Opportunities" format="dita" audience="Salesforce"/>
+         <topicref href="143197518.dita" navtitle="Cloning Existing Quotes" format="dita" audience="Salesforce"/>
+         <topicref href="179208702.dita" navtitle="Creating Quick Quotes" format="dita" audience="Salesforce"/>
+         <topicref href="143197520.dita" navtitle="Including Product Footnotes in Proposal Documents" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="163940280.dita" navtitle="Using the Catalog" format="dita" audience="Salesforce">
+         <topicref href="https://documentation.conga.com/display/CPQ/.Searching+Products+from+the+Catalog+vJune-23?src=contextnavpagetreemode" navtitle="Searching Products from the Catalog" format="dita" audience="Salesforce">
+            <topicref href="222431761.dita" navtitle="About Smart Search" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="158336651.dita" navtitle="Using Refine Your Search" format="dita" audience="Salesforce"/>
+         <topicref href="143197524.dita" navtitle="Comparing Products on the Catalog" format="dita" audience="Salesforce"/>
+         <topicref href="152573517.dita" navtitle="Using Guided Selling" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="163940283.dita" navtitle="Adding Products" format="dita" audience="Salesforce">
+         <topicref href="213451219.dita" navtitle="Configuring Products from the Catalog" format="dita" audience="Salesforce"/>
+         <topicref href="181309398.dita" navtitle="About Favorite Configurations on the Cart" format="dita" audience="Salesforce"/>
+         <topicref href="150503757.dita" navtitle="About Quote Lifecycle Collaboration" format="dita" audience="Salesforce">
+            <topicref href="239542801.dita" navtitle="Assigning the Configuration to the Collaborator or Queue" format="dita" audience="Salesforce"/>
+            <topicref href="150503777.dita" navtitle="Working on the Configuration Request" format="dita" audience="Salesforce"/>
+            <topicref href="158336642.dita" navtitle="Merging the Configurations in the Parent Cart" format="dita" audience="Salesforce"/>
+            <topicref href="213456378.dita" navtitle="Use Case: Quote Collaboration for Products Auto-Included by Constraint Rules" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197533.dita" navtitle="Working with the Mini-Cart" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="143197534.dita" navtitle="Working with the Cart" format="dita" audience="Salesforce">
+         <topicref href="239539391.dita" navtitle="Viewing the Cart in Grid View" format="dita" audience="Salesforce"/>
+         <topicref href="158336965.dita" navtitle="Managing Cart Views" format="dita" audience="Salesforce"/>
+         <topicref href="158336370.dita" navtitle="Applying Advanced Filters on the Cart" format="dita" audience="Salesforce"/>
+         <topicref href="148112191.dita" navtitle="Managing Mass Update of Product Fields" format="dita" audience="Salesforce"/>
+         <topicref href="239539555.dita" navtitle="About Cart Locking for Concurrent Access" format="dita" audience="Salesforce"/>
+         <topicref href="222429873.dita" navtitle="About Smart Cart" format="dita" audience="Salesforce">
+            <topicref href="161157162.dita" navtitle="Tasks Available in the Smart Cart Flow" format="dita" audience="Salesforce"/>
+            <topicref href="143197542.dita" navtitle="About Smart Cart Pricing" format="dita" audience="Salesforce"/>
+         </topicref>
+      </topicref>
+      <topicref href="213451301.dita" navtitle="Pricing Products" format="dita" audience="Salesforce">
+         <topicref href="195698730.dita" navtitle="Applying Multiple Adjustments on Line Items in the Cart" format="dita" audience="Salesforce">
+            <topicref href="190353280.dita" navtitle="Use Case: % Discount and % Discount Off Base" format="dita" audience="Salesforce"/>
+            <topicref href="213451293.dita" navtitle="Use Case: Applying Adjustments on Products with Negative Pricing" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="152573563.dita" navtitle="Applying Bucket Adjustments on Line Items in the Cart" format="dita" audience="Salesforce"/>
+         <topicref href="158336318.dita" navtitle="Creating Price Ramps for a Product" format="dita" audience="Salesforce">
+            <topicref href="213459241.dita" navtitle="Creating Price Ramps on the Cart Page" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197548.dita" navtitle="Defining Tiered Pricing" format="dita" audience="Salesforce"/>
+         <topicref href="235405319.dita" navtitle="Editing Price Agreements" format="dita" audience="Salesforce"/>
+         <topicref href="158336818.dita" navtitle="Managing Contract Pricing" format="dita" audience="Salesforce"/>
+         <topicref href="176293857.dita" navtitle="Applying Promotions on Line Items in the Cart" format="dita" audience="Salesforce"/>
+         <topicref href="169282777.dita" navtitle="Adding Miscellaneous Items" format="dita" audience="Salesforce"/>
+         <topicref href="184418841.dita" navtitle="Using Deal Guidance" format="dita" audience="Salesforce"/>
+         <topicref href="158336824.dita" navtitle="Subtotaling by Groups in the Cart" format="dita" audience="Salesforce"/>
+         <topicref href="169287601.dita" navtitle="About Quantity and Selling Term Calculation Using Default Pricing Settings" format="dita" audience="Salesforce">
+            <topicref href="143902489.dita" navtitle="Use Case: Auto Cascade Quantity and Auto Cascade Selling Term for Standalone Products" format="dita" audience="Salesforce"/>
+            <topicref href="143902492.dita" navtitle="Use Case: Auto Cascade Quantity and Auto Cascade Selling Term for Bundle Products" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="181309657.dita" navtitle="Using Price Waterfall" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="158336199.dita" navtitle="Finalizing Products" format="dita" audience="Salesforce">
+         <topicref href="213451138.dita" navtitle="Finalizing the Shopping Cart" format="dita" audience="Salesforce"/>
+         <topicref href="143197556.dita" navtitle="Opening Cart in Read-only mode" format="dita" audience="Salesforce"/>
+         <topicref href="143903128.dita" navtitle="About Product Configuration" format="dita" audience="Salesforce"/>
+         <topicref href="143903224.dita" navtitle="Disabling Cart Versioning" format="dita" audience="Salesforce"/>
+         <topicref href="193692784.dita" navtitle="Revalidating the Product Configuration" format="dita" audience="Salesforce"/>
+         <topicref href="222429707.dita" navtitle="Using Express Proposal" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="143197561.dita" navtitle="Finalizing Quotes" format="dita" audience="Salesforce">
+         <topicref href="143197562.dita" navtitle="Repricing Quotes" format="dita" audience="Salesforce"/>
+         <topicref href="225254819.dita" navtitle="Analyzing Quotes" format="dita" audience="Salesforce"/>
+         <topicref href="143197564.dita" navtitle="Auto-Synching Cart Line Items to a Quote" format="dita" audience="Salesforce"/>
+         <topicref href="152573289.dita" navtitle="Generating and Presenting Quotes" format="dita" audience="Salesforce">
+            <topicref href="158336833.dita" navtitle="Generating Quotes" format="dita" audience="Salesforce"/>
+            <topicref href="195698398.dita" navtitle="Using Proposal Document Generation" format="dita" audience="Salesforce"/>
+            <topicref href="143197568.dita" navtitle="Presenting Quotes" format="dita" audience="Salesforce"/>
+            <topicref href="158336359.dita" navtitle="Sending Documents for eSignature Using Conga Sign" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="158336838.dita" navtitle="Accepting Quotes" format="dita" audience="Salesforce"/>
+         <topicref href="143197571.dita" navtitle="Synchronizing Quotes with Opportunities" format="dita" audience="Salesforce">
+            <topicref href="143197572.dita" navtitle="Assigning the Default Pricebook" format="dita" audience="Salesforce"/>
+            <topicref href="158336220.dita" navtitle="Marking Quotes as Primary" format="dita" audience="Salesforce"/>
+            <topicref href="184424211.dita" navtitle="About Auto Sync and Manual Sync" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197575.dita" navtitle="Activating Orders" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="251429289.dita" navtitle="Managing Assets" format="dita" audience="Salesforce">
+         <topicref href="251429474.dita" navtitle="About Assets and Asset Line Items" format="dita" audience="Salesforce"/>
+         <topicref href="158336332.dita" navtitle="About Asset-Based Ordering Flows" format="dita" audience="Salesforce"/>
+         <topicref href="161153445.dita" navtitle="About the Installed Products Page" format="dita" audience="Salesforce"/>
+         <topicref href="161153442.dita" navtitle="Viewing Assets from an Account" format="dita" audience="Salesforce"/>
+         <topicref href="222431026.dita" navtitle="Viewing Installed Products in Different UIs" format="dita" audience="Salesforce"/>
+         <topicref href="203490948.dita" navtitle="Managing Views for Assets Grid" format="dita" audience="Salesforce"/>
+         <topicref href="190353407.dita" navtitle="Searching Assets" format="dita" audience="Salesforce"/>
+         <topicref href="143197583.dita" navtitle="Displaying Assets from the Account Hierarchy" format="dita" audience="Salesforce"/>
+         <topicref href="213459224.dita" navtitle="Pricing Assets" format="dita" audience="Salesforce"/>
+         <topicref href="143197585.dita" navtitle="Renewing an Asset" format="dita" audience="Salesforce">
+            <topicref href="213451255.dita" navtitle="Renewing Assets Manually" format="dita" audience="Salesforce">
+               <topicref href="222431226.dita" navtitle="Use Case: Different Renewal Dates" format="dita" audience="Salesforce"/>
+               <topicref href="203494409.dita" navtitle="Use Case: Restoring Asset Values on Reselection of Cancelled Options During Renewal" format="dita" audience="Salesforce"/>
+               <topicref href="213451262.dita" navtitle="Use Case: Renew Bundle Assets without Adding Asset Net Price of Cancelled Options" format="dita" audience="Salesforce"/>
+               <topicref href="218825190.dita" navtitle="Use Case: Applying Price Escalator on New Ramp Lines During ABO Operations" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197588.dita" navtitle="Renewing Assets Automatically" format="dita" audience="Salesforce">
+               <topicref href="222432628.dita" navtitle="Renewing Assets in Auto Renewal Mode" format="dita" audience="Salesforce">
+                  <topicref href="231213021.dita" navtitle="Use Case: Grouping of Assets without Renewal Group Fields During Renewal" format="dita" audience="Salesforce"/>
+                  <topicref href="231213027.dita" navtitle="Use Case: Grouping of Assets with Renewal Group Fields During Renewal" format="dita" audience="Salesforce"/>
+               </topicref>
+               <topicref href="222432633.dita" navtitle="Renewing Assets in OnDemand Renewal Mode" format="dita" audience="Salesforce">
+                  <topicref href="231213050.dita" navtitle="Use Case: Renewals without Grouping" format="dita" audience="Salesforce"/>
+               </topicref>
+            </topicref>
+            <topicref href="213451113.dita" navtitle="Use Case: Renewing Bundle Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197595.dita" navtitle="Use Case: Renewing Standalone Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197596.dita" navtitle="Use Case: Renewing Merged Assets with the Same Purchase Identifier" format="dita" audience="Salesforce"/>
+            <topicref href="239539570.dita" navtitle="Use Case: Renewed Ramped Assets Start from the End Date of the Last Ramp Line" format="dita" audience="Salesforce"/>
+            <topicref href="158336846.dita" navtitle="Renewing Assets Using Current Contract Value" format="dita" audience="Salesforce"/>
+            <topicref href="165938581.dita" navtitle="Use Case: Early Renewal of Ramped Bundle Assets with Options" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="158336859.dita" navtitle="Changing an Asset" format="dita" audience="Salesforce">
+            <topicref href="213451121.dita" navtitle="Changing Configurable Bundle Assets" format="dita" audience="Salesforce">
+               <topicref href="222431041.dita" navtitle="Changing the Attributes of an Asset" format="dita" audience="Salesforce"/>
+               <topicref href="165939278.dita" navtitle="Use Case: Cancelling Options in a Bundle Asset with Ramp Lines" format="dita" audience="Salesforce"/>
+               <topicref href="165938585.dita" navtitle="Use Case: Cancelled Asset Options Fetch Original Asset Start and End Dates During Renewal" format="dita" audience="Salesforce"/>
+               <topicref href="203495745.dita" navtitle="Use Case: Restoring Asset Values on Reselection of Cancelled Options During Change" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="203489616.dita" navtitle="Managing Asset Increment with Coterminate Lines" format="dita" audience="Salesforce"/>
+            <topicref href="203489606.dita" navtitle="Managing Asset Decrement" format="dita" audience="Salesforce">
+               <topicref href="203494319.dita" navtitle="Use Case: Asset Quantity Decrement" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="158336876.dita" navtitle="Splitting Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197603.dita" navtitle="Merging Assets" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="181306435.dita" navtitle="Swapping an Asset" format="dita" audience="Salesforce"/>
+         <topicref href="190353390.dita" navtitle="Terminating an Asset" format="dita" audience="Salesforce">
+            <topicref href="158336898.dita" navtitle="Use Case: Terminating Assets When Billing Management is Installed" format="dita" audience="Salesforce"/>
+            <topicref href="222432661.dita" navtitle="Use Case: Same Day Cancellation" format="dita" audience="Salesforce"/>
+            <topicref href="143197608.dita" navtitle="Use Case: Terminating Renewed Assets" format="dita" audience="Salesforce"/>
+            <topicref href="158338842.dita" navtitle="Use Case: Terminating an Asset with Ramp Lines" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="161157595.dita" navtitle="Suspending an Asset" format="dita" audience="Salesforce"/>
+         <topicref href="163940342.dita" navtitle="Resuming an Asset" format="dita" audience="Salesforce"/>
+         <topicref href="143197609.dita" navtitle="Managing Assets through Contracts" format="dita" audience="Salesforce">
+            <topicref href="143197610.dita" navtitle="Managing Assets in the Contract + Proposal Flow" format="dita" audience="Salesforce">
+               <topicref href="158336905.dita" navtitle="Changing Assets in the Contract + Proposal Flow" format="dita" audience="Salesforce"/>
+               <topicref href="143197612.dita" navtitle="Renewing Assets in the Contract + Proposal Flow" format="dita" audience="Salesforce"/>
+               <topicref href="143197613.dita" navtitle="Swapping Assets in the Contract + Proposal Flow" format="dita" audience="Salesforce"/>
+               <topicref href="143197614.dita" navtitle="Terminating Assets in the Contract + Proposal Flow" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="165941070.dita" navtitle="Managing Assets in the Contract Flow" format="dita" audience="Salesforce">
+               <topicref href="158336912.dita" navtitle="Changing Assets in the Contract Flow" format="dita" audience="Salesforce"/>
+               <topicref href="143197617.dita" navtitle="Renewing Assets in the Contract Flow" format="dita" audience="Salesforce">
+                  <topicref href="158336352.dita" navtitle="Renewing Assets Manually in the Contract Flow" format="dita" audience="Salesforce"/>
+                  <topicref href="143197619.dita" navtitle="Renewing Assets Automatically in the Contract Flow" format="dita" audience="Salesforce">
+                     <topicref href="222432637.dita" navtitle="Renewing Assets in Auto Renewal Mode in the Contract Flow" format="dita" audience="Salesforce"/>
+                     <topicref href="222432641.dita" navtitle="Renewing Assets in OnDemand Renewal Mode in the Contract Flow" format="dita" audience="Salesforce"/>
+                  </topicref>
+               </topicref>
+               <topicref href="143197622.dita" navtitle="Swapping Assets in the Contract Flow" format="dita" audience="Salesforce"/>
+               <topicref href="143197623.dita" navtitle="Terminating Assets in the Contract Flow" format="dita" audience="Salesforce"/>
+            </topicref>
+         </topicref>
+         <topicref href="143197624.dita" navtitle="Viewing the Asset Transaction History" format="dita" audience="Salesforce"/>
+         <topicref href="143197625.dita" navtitle="Billing for Assets" format="dita" audience="Salesforce">
+            <topicref href="208510744.dita" navtitle="Impact of Asset Actions on Billing Schedules" format="dita" audience="Salesforce"/>
+            <topicref href="143197627.dita" navtitle="Billing Schedules for Renewed Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197628.dita" navtitle="Billing Schedules for Cancelled Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197629.dita" navtitle="Billing Schedules for Incremented Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197630.dita" navtitle="Usage Schedules for Cancelled Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197631.dita" navtitle="Changing Billing Schedules When You Decrease the Net Price of Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197632.dita" navtitle="Changing Billing Schedules When You Change the Billing Frequency of Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197633.dita" navtitle="Changing Billing Schedules When You Extend the End Date of Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197634.dita" navtitle="Changing Billing Schedules When You Increase the Net Price of Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197635.dita" navtitle="Changing Billing Schedules When You Reduce the End Date of Assets" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="https://documentation.conga.com/display/CPQ/WIP+-+Asset+Based+Operations+Use+Cases?src=contextnavpagetreemode" navtitle="WIP - Asset Based Operations Use Cases" format="dita" audience="CongaPlatform">
+            <topicref href="https://documentation.conga.com/display/CPQ/Asset+Based+Operation+Example+of+Renew+operation?src=contextnavpagetreemode" navtitle="Asset Based Operation Example of Renew operation" format="dita" audience="CongaPlatform"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/Splitting+an+Asset+on+Conga+Platform?src=contextnavpagetreemode" navtitle="Splitting an Asset on Conga Platform" format="dita" audience="CongaPlatform"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/Managing+Asset+Based+Ordering?src=contextnavpagetreemode" navtitle="Managing Asset Based Ordering" format="dita" audience="CongaPlatform">
+               <topicref href="https://documentation.conga.com/display/CPQ/Introduction+to+using+Conga+platform+for+ABO?src=contextnavpagetreemode" navtitle="Introduction to using Conga platform for ABO" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Use+Cases+for+Change+Operation?src=contextnavpagetreemode" navtitle="Use Cases for Change Operation" format="dita" audience="CongaPlatform"/>
+               <topicref href="https://documentation.conga.com/display/CPQ/Changing+an+Asset+on+Conga+Platform?src=contextnavpagetreemode" navtitle="Changing an Asset on Conga Platform" format="dita" audience="CongaPlatform">
+                  <topicref href="https://documentation.conga.com/display/CPQ/Configuring+an+Asset+on+Conga+Platform?src=contextnavpagetreemode" navtitle="Configuring an Asset on Conga Platform" format="dita" audience="CongaPlatform"/>
+                  <topicref href="https://documentation.conga.com/display/CPQ/Changing+the+Quantity+of+an+Asset+on+Conga+Platform?src=contextnavpagetreemode" navtitle="Changing the Quantity of an Asset on Conga Platform" format="dita" audience="CongaPlatform"/>
+               </topicref>
+               <topicref href="https://documentation.conga.com/display/CPQ/Terminating+an+Asset+on+Conga+Platform?src=contextnavpagetreemode" navtitle="Terminating an Asset on Conga Platform" format="dita" audience="CongaPlatform"/>
+            </topicref>
+         </topicref>
+      </topicref>
+      <topicref href="158336502.dita" navtitle="Managing Services" format="dita" audience="Salesforce">
+         <topicref href="158336508.dita" navtitle="Associating Services with Assets" format="dita" audience="Salesforce"/>
+         <topicref href="158336517.dita" navtitle="Working with the Service Catalog" format="dita" audience="Salesforce"/>
+         <topicref href="158336521.dita" navtitle="Configuring Service Products" format="dita" audience="Salesforce"/>
+         <topicref href="169287476.dita" navtitle="Working with the Service Cart" format="dita" audience="Salesforce"/>
+         <topicref href="158336540.dita" navtitle="Splitting the Related Line Items from Services" format="dita" audience="Salesforce"/>
+         <topicref href="176294481.dita" navtitle="Modifying the Association of Assets with Services by Launching the Installed Products Page Directly" format="dita" audience="Salesforce"/>
+         <topicref href="158336549.dita" navtitle="Use Case: Bundle to Bundle" format="dita" audience="Salesforce"/>
+         <topicref href="158336557.dita" navtitle="Use Case: Bundle to Components" format="dita" audience="Salesforce"/>
+         <topicref href="158336567.dita" navtitle="Use Case: Bundle to Bundle and Components" format="dita" audience="Salesforce"/>
+         <topicref href="161155154.dita" navtitle="Use Case: A Product with Parent and Child Price Lists" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="143197645.dita" navtitle="Glossary" format="dita" audience="Salesforce">
+         <topicref href="143197646.dita" navtitle="Approval Stages" format="dita" audience="Salesforce"/>
+         <topicref href="143197647.dita" navtitle="Proposal Actions" format="dita" audience="Salesforce"/>
+         <topicref href="143197648.dita" navtitle="New Related Lists" format="dita" audience="Salesforce"/>
+      </topicref>
+   </topicref>
+   <topicref href="161155103.dita" navtitle="CPQ for SOAP API Developers" format="dita" audience="Salesforce">
+      <topicref href="143197653.dita" navtitle="Getting Started as a Developer" format="dita" audience="Salesforce">
+         <topicref href="143197654.dita" navtitle="API Supported Packages" format="dita" audience="Salesforce"/>
+         <topicref href="143197655.dita" navtitle="Document Setup" format="dita" audience="Salesforce"/>
+         <topicref href="143197656.dita" navtitle="API Standards and Development Platforms" format="dita" audience="Salesforce"/>
+         <topicref href="152573537.dita" navtitle="Field Types" format="dita" audience="Salesforce"/>
+         <topicref href="143197658.dita" navtitle="Recommendations" format="dita" audience="Salesforce"/>
+         <topicref href="143197659.dita" navtitle="Integrating Conga with External Systems" format="dita" audience="Salesforce">
+            <topicref href="143197660.dita" navtitle="Generic API Operations in Salesforce (SOAP)" format="dita" audience="Salesforce"/>
+         </topicref>
+      </topicref>
+      <topicref href="208510367.dita" navtitle="API Reference" format="dita" audience="Salesforce">
+         <topicref href="169283757.dita" navtitle="Proposal Web Service" format="dita" audience="Salesforce">
+            <topicref href="143197663.dita" navtitle="Retrieving Proposal Field Values from Account" format="dita" audience="Salesforce"/>
+            <topicref href="143197664.dita" navtitle="Retrieving Proposal Field Values from Opportunity" format="dita" audience="Salesforce"/>
+            <topicref href="143197665.dita" navtitle="Retrieving Field Values from Proposal" format="dita" audience="Salesforce"/>
+            <topicref href="143197666.dita" navtitle="Creating Proposal Line Items from Opportunity" format="dita" audience="Salesforce"/>
+            <topicref href="143197667.dita" navtitle="Updating a Proposal" format="dita" audience="Salesforce"/>
+            <topicref href="143197668.dita" navtitle="Cloning Email Template" format="dita" audience="Salesforce"/>
+            <topicref href="143197669.dita" navtitle="Cloning Document Templates" format="dita" audience="Salesforce"/>
+            <topicref href="143197670.dita" navtitle="Getting the Proposal Document Output Format" format="dita" audience="Salesforce"/>
+            <topicref href="143197671.dita" navtitle="Copying Attachments" format="dita" audience="Salesforce"/>
+            <topicref href="143197672.dita" navtitle="Creating a Task After Proposal is Presented" format="dita" audience="Salesforce"/>
+            <topicref href="143197673.dita" navtitle="Retrieving Name of the First Template" format="dita" audience="Salesforce"/>
+            <topicref href="143197674.dita" navtitle="Retrieving Templates in a Proposal" format="dita" audience="Salesforce"/>
+            <topicref href="143197675.dita" navtitle="Deleting an Email Template" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169283752.dita" navtitle="Batch Update Service" format="dita" audience="Salesforce">
+            <topicref href="152573571.dita" navtitle="Updating Category Hierarchy for a single Category" format="dita" audience="Salesforce"/>
+            <topicref href="152573576.dita" navtitle="Updating Category Hierarchy for multiple Categories" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169283747.dita" navtitle="CPQ Web Service(Apttus_CPQApi)" format="dita" audience="Salesforce">
+            <topicref href="152573393.dita" navtitle="Creating a Cart from a Quote" format="dita" audience="Salesforce"/>
+            <topicref href="152573581.dita" navtitle="Retrieving Categories for a Price List" format="dita" audience="Salesforce"/>
+            <topicref href="213456567.dita" navtitle="Retrieving Products and List Prices for a Price List" format="dita" audience="Salesforce"/>
+            <topicref href="152573587.dita" navtitle="Retrieving Products and List Prices for a Price List and Category" format="dita" audience="Salesforce"/>
+            <topicref href="158337222.dita" navtitle="Retrieving Products and List Prices For a Price List and Search Text" format="dita" audience="Salesforce"/>
+            <topicref href="158336919.dita" navtitle="Retrieving Products and List Prices For a Price List Category and Search Text" format="dita" audience="Salesforce"/>
+            <topicref href="143197686.dita" navtitle="Retrieving Option Groups, Options, and List Prices for a Price List Product" format="dita" audience="Salesforce"/>
+            <topicref href="143197687.dita" navtitle="Adding Products to a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197688.dita" navtitle="Adding a Bundle to a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143902901.dita" navtitle="Adding Custom Bundles" format="dita" audience="Salesforce"/>
+            <topicref href="143197690.dita" navtitle="Adding Options to a Bundle" format="dita" audience="Salesforce"/>
+            <topicref href="143197691.dita" navtitle="Cloning Bundle Line Items on the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197692.dita" navtitle="Cloning Line Items on the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197693.dita" navtitle="Cloning Option Line Items on the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="158336929.dita" navtitle="Comparing Products" format="dita" audience="Salesforce"/>
+            <topicref href="143197695.dita" navtitle="Associating Constraint Rules to a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197696.dita" navtitle="Applying Constraint Rules to a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197697.dita" navtitle="Applying Constraint Rules to Deleted Products" format="dita" audience="Salesforce"/>
+            <topicref href="143197698.dita" navtitle="Adding Price Ramps to a Cart (CPQ Web Service)" format="dita" audience="Salesforce"/>
+            <topicref href="143197699.dita" navtitle="Computing the Net Price for a Bundle" format="dita" audience="Salesforce"/>
+            <topicref href="143197700.dita" navtitle="Updating Price For A Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197701.dita" navtitle="Price Breakup for a Cart or Specific Line Item" format="dita" audience="Salesforce"/>
+            <topicref href="143197702.dita" navtitle="Removing a Bundle from a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197703.dita" navtitle="Removing Multiple Bundles from a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197704.dita" navtitle="Removing Line Items from the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197705.dita" navtitle="Removing Options from a Bundle" format="dita" audience="Salesforce"/>
+            <topicref href="143197706.dita" navtitle="Retrieving Constraint Rules Results" format="dita" audience="Salesforce"/>
+            <topicref href="143896423.dita" navtitle="Retrieving Incentives on the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197708.dita" navtitle="Retrieving Asset Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="143197709.dita" navtitle="Setting Incentives for Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197710.dita" navtitle="Retrieving Incentives Applied on the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197711.dita" navtitle="Abandoning a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197712.dita" navtitle="Finalizing a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197713.dita" navtitle="Synchronizing a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197714.dita" navtitle="Updating Quote Terms" format="dita" audience="Salesforce"/>
+            <topicref href="143197715.dita" navtitle="Modifying Assets (Deprecated)" format="dita" audience="Salesforce"/>
+            <topicref href="143197716.dita" navtitle="Computing Shipping for Cart Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="143197717.dita" navtitle="Computing Taxes for Cart Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="143197718.dita" navtitle="Adding a Miscellaneous Item to the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143896842.dita" navtitle="Creating Coupons for Incentives" format="dita" audience="Salesforce"/>
+            <topicref href="152567897.dita" navtitle="Retrieving Products Included by Auto-inclusion Constraint Rule" format="dita" audience="Salesforce"/>
+            <topicref href="184422554.dita" navtitle="Adding Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="https://documentation.conga.com/display/CPQ/.Rebuilds+the+Category+Hierarchy+vJune-23?src=contextnavpagetreemode" navtitle="Rebuilds the Category Hierarchy" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169283742.dita" navtitle="CPQ Web Service (Apttus_Config2)" format="dita" audience="Salesforce">
+            <topicref href="143197721.dita" navtitle="Creating Product Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="143197722.dita" navtitle="Registering Split Cart Parameters" format="dita" audience="Salesforce"/>
+            <topicref href="143197723.dita" navtitle="Finalizing the Configuration Version" format="dita" audience="Salesforce"/>
+            <topicref href="143197724.dita" navtitle="Finalizing the Configuration Version with Synchronization Tasks" format="dita" audience="Salesforce"/>
+            <topicref href="143197725.dita" navtitle="Abandoning a Configuration" format="dita" audience="Salesforce"/>
+            <topicref href="143197726.dita" navtitle="Cloning Primary Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="143197727.dita" navtitle="Creating Bundle Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="165938487.dita" navtitle="Creating and Updating Related Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="165938598.dita" navtitle="Saving Related Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="165938612.dita" navtitle="Splitting Related Line Items" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169283739.dita" navtitle="CPQ Admin Web Service" format="dita" audience="Salesforce">
+            <topicref href="158336578.dita" navtitle="Creating New Products" format="dita" audience="Salesforce"/>
+            <topicref href="158336581.dita" navtitle="Creating New Categories" format="dita" audience="Salesforce"/>
+            <topicref href="158336584.dita" navtitle="Associating Products to Category" format="dita" audience="Salesforce"/>
+            <topicref href="158336591.dita" navtitle="Building Hierarchy of Products" format="dita" audience="Salesforce"/>
+            <topicref href="158336593.dita" navtitle="Checking if Product Exists in Hierarchy" format="dita" audience="Salesforce"/>
+            <topicref href="158336598.dita" navtitle="Removing Products from Hierarchy" format="dita" audience="Salesforce"/>
+            <topicref href="158336601.dita" navtitle="Retrieving the List Option Group" format="dita" audience="Salesforce"/>
+            <topicref href="143197736.dita" navtitle="Retrieving Options in an Option Group" format="dita" audience="Salesforce"/>
+            <topicref href="158336605.dita" navtitle="Retrieving of Product Hierarchy" format="dita" audience="Salesforce"/>
+            <topicref href="158336608.dita" navtitle="Retrieves List of Parent Product" format="dita" audience="Salesforce"/>
+            <topicref href="158336611.dita" navtitle="Retrieves List Product IDs" format="dita" audience="Salesforce"/>
+            <topicref href="158336614.dita" navtitle="Retrieves List of Category IDs" format="dita" audience="Salesforce"/>
+            <topicref href="152567828.dita" navtitle="Creating New Attribute Group" format="dita" audience="Salesforce"/>
+            <topicref href="152567833.dita" navtitle="Adding and Removing Attributes from an Attribute Group" format="dita" audience="Salesforce"/>
+            <topicref href="152567843.dita" navtitle="Associating Attribute Group and Products" format="dita" audience="Salesforce"/>
+            <topicref href="152567890.dita" navtitle="Dissociating Attribute Group and Products" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169283734.dita" navtitle="Batch Job Service" format="dita" audience="Salesforce">
+            <topicref href="143197742.dita" navtitle="Splitting a Smart Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197743.dita" navtitle="Updating Price for the Smart Cart" format="dita" audience="Salesforce"/>
+            <topicref href="195692726.dita" navtitle="Finalizing Configuration in Enterprise and Smart Cart" format="dita" audience="Salesforce"/>
+            <topicref href="208506239.dita" navtitle="Retrieving Apex Batch Job Information" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169283731.dita" navtitle="Constraint Web Service 2" format="dita" audience="Salesforce">
+            <topicref href="158336620.dita" navtitle="Associating Constraint Rule to Products Added to the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197747.dita" navtitle="Applying Constraint Rule to All Products Added to the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="152567818.dita" navtitle="Applying Constraint Rule to Bundles Added to the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="152567813.dita" navtitle="Retrieving Products Auto-included to the Cart" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197749.dita" navtitle="Quote Collaboration Service" format="dita" audience="Salesforce">
+            <topicref href="143197750.dita" navtitle="Adding Products to a Collaboration Request" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169283721.dita" navtitle="Favorite Configuration Global Service" format="dita" audience="Salesforce">
+            <topicref href="158336201.dita" navtitle="Creating Favorite Configuration" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143197753.dita" navtitle="Quote/Proposal Config Web Service" format="dita" audience="Salesforce">
+            <topicref href="143197754.dita" navtitle="Accepting a Quote" format="dita" audience="Salesforce"/>
+            <topicref href="143197755.dita" navtitle="Synchronizing Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143902894.dita" navtitle="Copying Product Configuration to the Proposal" format="dita" audience="Salesforce"/>
+            <topicref href="233537659.dita" navtitle="Synchronizing Quote/Proposal with Opportunity" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="169283716.dita" navtitle="Asset Service" format="dita" audience="Salesforce">
+            <topicref href="143197757.dita" navtitle="Fetching Asset Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="143197758.dita" navtitle="Getting a count of Asset Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="143197759.dita" navtitle="Swapping Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197760.dita" navtitle="Getting a list of Products to be swapped with Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197761.dita" navtitle="Terminating Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197762.dita" navtitle="Renewing Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197763.dita" navtitle="Incrementing Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197764.dita" navtitle="Changing Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143197765.dita" navtitle="Merging Duplicate Assets" format="dita" audience="Salesforce"/>
+            <topicref href="161156666.dita" navtitle="Suspending Assets" format="dita" audience="Salesforce"/>
+            <topicref href="163940651.dita" navtitle="Resuming Assets" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="158336626.dita" navtitle="Remote CPQ Admin Controller" format="dita" audience="Salesforce">
+            <topicref href="158336629.dita" navtitle="Searching Custom Fields in Objects" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="143904751.dita" navtitle="Asset Web Services" format="dita" audience="Salesforce">
+            <topicref href="143904754.dita" navtitle="Change Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143904757.dita" navtitle="Renew Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143904760.dita" navtitle="Get a List of Products to be Swapped with Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143904763.dita" navtitle="Swap Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143904766.dita" navtitle="Terminate Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143904770.dita" navtitle="Get a Count of Assets" format="dita" audience="Salesforce"/>
+            <topicref href="143904774.dita" navtitle="Get a List of Assets" format="dita" audience="Salesforce"/>
+         </topicref>
+         <topicref href="165938478.dita" navtitle="Service CPQ Support" format="dita" audience="CongaPlatform"/>
+         <topicref href="184422717.dita" navtitle="Merge Web Service" format="dita" audience="Salesforce">
+            <topicref href="184418977.dita" navtitle="Creating Proposal Document" format="dita" audience="Salesforce"/>
+            <topicref href="184418980.dita" navtitle="Creating Proposal Document with Draft Indication" format="dita" audience="Salesforce"/>
+            <topicref href="184418983.dita" navtitle="Generating Documents for Proposal with Large Number of Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="184418986.dita" navtitle="Generating Documents Asynchronously" format="dita" audience="Salesforce"/>
+         </topicref>
+      </topicref>
+      <topicref href="143903152.dita" navtitle="Async APIs Using Batch Apex" format="dita" audience="Salesforce">
+         <topicref href="143903106.dita" navtitle="Repricing the Cart" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="143197768.dita" navtitle="Scenarios" format="dita" audience="Salesforce">
+         <topicref href="143197769.dita" navtitle="Working with Products in the Shopping Cart" format="dita" audience="Salesforce">
+            <topicref href="143197770.dita" navtitle="Searching Products" format="dita" audience="Salesforce"/>
+            <topicref href="143197771.dita" navtitle="Configuring and Adding Products" format="dita" audience="Salesforce"/>
+            <topicref href="143197772.dita" navtitle="Displaying Recommendations" format="dita" audience="Salesforce"/>
+            <topicref href="143197773.dita" navtitle="Updating Price" format="dita" audience="Salesforce"/>
+            <topicref href="143197774.dita" navtitle="Viewing Price Break-up Details" format="dita" audience="Salesforce"/>
+            <topicref href="143197775.dita" navtitle="Adding Price Ramps to a Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197776.dita" navtitle="Updating Taxes and Shipping for an Order" format="dita" audience="Salesforce">
+               <topicref href="143197777.dita" navtitle="Sample Callback for Calculating Shipping" format="dita" audience="Salesforce"/>
+               <topicref href="143197778.dita" navtitle="Sample Callback for Calculating Taxes" format="dita" audience="Salesforce"/>
+               <topicref href="143197779.dita" navtitle="To apply taxes and shipping charges" format="dita" audience="Salesforce"/>
+            </topicref>
+            <topicref href="143197780.dita" navtitle="Creating and Updating Quote and Quote Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="143197781.dita" navtitle="Creating and Updating Order and Order Line Items" format="dita" audience="Salesforce"/>
+            <topicref href="143197782.dita" navtitle="Asset Based Ordering" format="dita" audience="Salesforce"/>
+            <topicref href="143197783.dita" navtitle="Finalizing the Cart" format="dita" audience="Salesforce"/>
+            <topicref href="143197784.dita" navtitle="Updating Quote Terms to Modify Dates" format="dita" audience="Salesforce"/>
+         </topicref>
+      </topicref>
+      <topicref href="158336623.dita" navtitle="Troubleshooting CPQ SOAP APIs" format="dita" audience="Salesforce"/>
+   </topicref>
+   <topicref href="238715302.dita" navtitle="CPQ for REST API Developers" format="dita" audience="Salesforce">
+      <topicref href="https://documentation.conga.com/display/CPQ/.Copy+of+CPQ+Asset-Based+Ordering+APIs+vDecember-21?src=contextnavpagetreemode" navtitle="Copy of CPQ Asset-Based Ordering APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="169284258.dita" navtitle="CPQ Asset-Based Ordering APIs" format="dita" audience="Salesforce"/>
+      <topicref href="165939613.dita" navtitle="Service CPQ APIs" format="dita" audience="Salesforce"/>
+      <topicref href="181307484.dita" navtitle="Service Execute Job" format="dita" audience="Salesforce"/>
+      <topicref href="238715308.dita" navtitle="CPQ REST APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Authentication+vDecember-23?src=contextnavpagetreemode" navtitle="Authentication" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Settings+APIs+vDecember-23?src=contextnavpagetreemode" navtitle="Administration APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Catalog+Setup+APIs+vNovember-23?src=contextnavpagetreemode" navtitle="Catalog Setup APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Pricing+Setup+APIs+vNovember-23?src=contextnavpagetreemode" navtitle="Pricing Setup APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Deal+Setup+APIs+vNovember-23?src=contextnavpagetreemode" navtitle="Deal Maximizer Setup APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Catalog+APIs+vDecember-23?src=contextnavpagetreemode" navtitle="Catalog APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Quoting+APIs+vDecember-23?src=contextnavpagetreemode" navtitle="Quoting APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Cart+APIs+vDecember-23?src=contextnavpagetreemode" navtitle="Cart APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Order+APIs+vDecember-23?src=contextnavpagetreemode" navtitle="Order APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="https://documentation.conga.com/display/CPQ/.Asset+API+vDecember-23?src=contextnavpagetreemode" navtitle="Asset APIs" format="dita" audience="CongaPlatform"/>
+      <topicref href="208505668.dita" navtitle="Conga CPQ on Conga Platform Use Cases" format="dita" audience="CongaPlatform">
+         <topicref href="213453808.dita" navtitle="Use Case: User Authentication to Conga Platform" format="dita" audience="CongaPlatform"/>
+         <topicref href="208505913.dita" navtitle="Getting the Application Context" format="dita" audience="CongaPlatform"/>
+         <topicref href="208510489.dita" navtitle="Use Case: Browsing the Catalog" format="dita" audience="CongaPlatform"/>
+         <topicref href="208505923.dita" navtitle="Retrieving Product Details" format="dita" audience="CongaPlatform"/>
+         <topicref href="208505927.dita" navtitle="Interacting with the Cart" format="dita" audience="CongaPlatform"/>
+         <topicref href="208505933.dita" navtitle="Creating and Editing Quotes" format="dita" audience="CongaPlatform"/>
+         <topicref href="208505945.dita" navtitle="Working with Order APIs" format="dita" audience="CongaPlatform">
+            <topicref href="208505953.dita" navtitle="Updating Order Details" format="dita" audience="CongaPlatform"/>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref href="158338886.dita" navtitle="CPQ Best Practices: Governor Limits" format="dita" audience="Salesforce">
+      <topicref href="158338939.dita" navtitle="About Governor Limits" format="dita" audience="Salesforce">
+         <topicref href="158338896.dita" navtitle="Established Salesforce Governor Limits" format="dita" audience="Salesforce"/>
+         <topicref href="158338943.dita" navtitle="Best Practices to Avoid Governor Limits" format="dita" audience="Salesforce"/>
+         <topicref href="158338900.dita" navtitle="Handling Governor Limits" format="dita" audience="Salesforce"/>
+      </topicref>
+      <topicref href="158338902.dita" navtitle="Guardrail for Using CPQ" format="dita" audience="Salesforce">
+         <topicref href="188842218.dita" navtitle="Guidelines for CPQ" format="dita" audience="Salesforce"/>
+         <topicref href="161153622.dita" navtitle="Recommendations to Improve CPQ Performance" format="dita" audience="Salesforce"/>
+         <topicref href="231214719.dita" navtitle="Recommendations to Import Legacy Products into Conga CPQ" format="dita" audience="Salesforce"/>
+         <topicref href="158338908.dita" navtitle="Factors of Master Data that Contribute to Performance" format="dita" audience="Salesforce"/>
+         <topicref href="158338910.dita" navtitle="Factors of Transactional Data that Contribute to Performance" format="dita" audience="Salesforce"/>
+      </topicref>
+   </topicref>
+   <topicref href="220759761.dita" navtitle="CPQ Features by Release" format="dita" audience="Salesforce">
+      <topicref href="220759773.dita" navtitle="Features by Release" format="dita" audience="Salesforce"/>
+   </topicref>
+   <topicref href="231214763.dita" navtitle="Conga Customer Community &amp; Learning Center Resources" format="dita" audience="Salesforce"/>
+   <topicref href="190350550.dita" navtitle="Troubleshooting Common Configuration Mistakes" format="dita" audience="Salesforce">
+      <topicref href="195691645.dita" navtitle="1 Cannot Create Flow" format="dita" audience="Salesforce"/>
+      <topicref href="193698563.dita" navtitle="2 Cannot Add a Product to the Cart" format="dita" audience="Salesforce"/>
+      <topicref href="195691649.dita" navtitle="3 Cannot Open or Save Column or Action Settings" format="dita" audience="Salesforce"/>
+      <topicref href="195691659.dita" navtitle="4 Cannot Add Products to the Cart" format="dita" audience="Salesforce"/>
+      <topicref href="195691732.dita" navtitle="10 Cannot Add a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691701.dita" navtitle="18 Cannot Add a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691705.dita" navtitle="20 Cannot See Buttons" format="dita" audience="Salesforce"/>
+      <topicref href="195691712.dita" navtitle="22 Cannot Finalize a Quote" format="dita" audience="Salesforce"/>
+      <topicref href="193698611.dita" navtitle="25 Cannot Add a Product to the Cart" format="dita" audience="Salesforce"/>
+      <topicref href="195690801.dita" navtitle="38 Cannot Configure a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691737.dita" navtitle="39 Cannot Configure a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195690806.dita" navtitle="40 Cannot Add a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195690810.dita" navtitle="44 Cannot Access the Catalog Page" format="dita" audience="Salesforce"/>
+      <topicref href="195690820.dita" navtitle="48 Cannot Land on the Catalog Page" format="dita" audience="Salesforce"/>
+      <topicref href="195690868.dita" navtitle="52 Cannot Configure a Quote" format="dita" audience="Salesforce"/>
+      <topicref href="195690872.dita" navtitle="82 Cannot Configure a Quote in Partner Community" format="dita" audience="Salesforce"/>
+      <topicref href="195691528.dita" navtitle="53 Cannot Configure Quotes" format="dita" audience="Salesforce"/>
+      <topicref href="195690879.dita" navtitle="55 Cannot Add a Product to Cart" format="dita" audience="Salesforce"/>
+      <topicref href="195690883.dita" navtitle="57 Cannot Configure a Quote" format="dita" audience="Salesforce"/>
+      <topicref href="195690891.dita" navtitle="58 Cannot Add a Product to Cart" format="dita" audience="Salesforce"/>
+      <topicref href="195690901.dita" navtitle="59 Cannot Land on the Catalog Page" format="dita" audience="Salesforce"/>
+      <topicref href="195690907.dita" navtitle="61 Cannot Configure a Quote" format="dita" audience="Salesforce"/>
+      <topicref href="195690912.dita" navtitle="62 Cannot Configure a Service Bundle Product" format="dita" audience="Salesforce"/>
+      <topicref href="195690916.dita" navtitle="63 Cannot View a Category or Product" format="dita" audience="Salesforce"/>
+      <topicref href="195690952.dita" navtitle="66 Catalog Page Error" format="dita" audience="Salesforce"/>
+      <topicref href="195690960.dita" navtitle="67 Cannot Search a Product on the Catalog" format="dita" audience="Salesforce"/>
+      <topicref href="195690965.dita" navtitle="68 Cannot Configure a Quote" format="dita" audience="Salesforce"/>
+      <topicref href="195690969.dita" navtitle="69 Cannot Add a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195690973.dita" navtitle="70 Cannot Add a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691076.dita" navtitle="71 Cannot Add a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691084.dita" navtitle="72 Cannot Add a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691095.dita" navtitle="73 Cannot Add or Configure a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691090.dita" navtitle="72 Cannot Configure a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691744.dita" navtitle="74 Pricing Does Not Happen" format="dita" audience="Salesforce"/>
+      <topicref href="195691748.dita" navtitle="75 Cannot Go to Cart" format="dita" audience="Salesforce"/>
+      <topicref href="195691752.dita" navtitle="76 Cannot Configure a Quote" format="dita" audience="Salesforce"/>
+      <topicref href="195691107.dita" navtitle="79 Cannot Configure a Quote" format="dita" audience="Salesforce"/>
+      <topicref href="195691113.dita" navtitle="80 Cannot Add Products" format="dita" audience="Salesforce"/>
+      <topicref href="195691761.dita" navtitle="81 Cannot Generate a Doc" format="dita" audience="Salesforce"/>
+      <topicref href="195691532.dita" navtitle="84 Cannot Search a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691536.dita" navtitle="85 Cannot Configure a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691765.dita" navtitle="86 Cart Page Error" format="dita" audience="Salesforce"/>
+      <topicref href="195691540.dita" navtitle="87 Cannot Land on the Catalog Page" format="dita" audience="Salesforce"/>
+      <topicref href="195691544.dita" navtitle="88 Cannot Add a Product to Cart or Configure a Bundle" format="dita" audience="Salesforce"/>
+      <topicref href="195691550.dita" navtitle="90 Cannot Finalize the Cart" format="dita" audience="Salesforce"/>
+      <topicref href="195691557.dita" navtitle="95 Cannot Add a Product to Cart or Configure a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691561.dita" navtitle="96 Catalog Page Error in Partner Community" format="dita" audience="Salesforce"/>
+      <topicref href="195691569.dita" navtitle="97 Cannot Create an Order from Quote" format="dita" audience="Salesforce"/>
+      <topicref href="195691573.dita" navtitle="98 Cannot Create a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195691577.dita" navtitle="99 Catalog Page Does Not Load" format="dita" audience="Salesforce"/>
+      <topicref href="195691617.dita" navtitle="101 Cannot Create a View" format="dita" audience="Salesforce"/>
+      <topicref href="195691583.dita" navtitle="102 Cannot Search a Product on the Catalog" format="dita" audience="Salesforce"/>
+      <topicref href="195691621.dita" navtitle="104 Cannot Land on Catalog" format="dita" audience="Salesforce"/>
+      <topicref href="193698597.dita" navtitle="16 Adding Products Shows Console Error" format="dita" audience="Salesforce"/>
+      <topicref href="193691793.dita" navtitle="23 Adjustments Are Not Getting Applied" format="dita" audience="Salesforce"/>
+      <topicref href="195690797.dita" navtitle="37 Cannot Access CPQ" format="dita" audience="Salesforce"/>
+      <topicref href="193698601.dita" navtitle="17 Cannot Activate Orders" format="dita" audience="Salesforce"/>
+      <topicref href="193692826.dita" navtitle="13 Cannot Add a Product" format="dita" audience="Salesforce"/>
+      <topicref href="195690626.dita" navtitle="28 Cannot Add a Service Procut to the Cart" format="dita" audience="Salesforce"/>
+      <topicref href="195690785.dita" navtitle="35 Cannot Add a Service Product" format="dita" audience="Salesforce"/>
+      <topicref href="193692799.dita" navtitle="5 Cannot Add Products to Cart and Pricing Fails" format="dita" audience="Salesforce"/>
+      <topicref href="193698593.dita" navtitle="11 Cannot Configure a Bundle Product" format="dita" audience="Salesforce"/>
+      <topicref href="195690859.dita" navtitle="50 Cannot Configure a Product" format="dita" audience="Salesforce"/>
+      <topicref href="193692804.dita" navtitle="9 Cannot Configure Products" format="dita" audience="Salesforce"/>
+      <topicref href="195690671.dita" navtitle="34 Cannot Create a New Doc" format="dita" audience="Salesforce"/>
+      <topicref href="195690935.dita" navtitle="64 Cannot Perform Any Action in Console" format="dita" audience="Salesforce"/>
+      <topicref href="195690641.dita" navtitle="29 Cannot Perform Maintenance Job" format="dita" audience="Salesforce"/>
+      <topicref href="195690659.dita" navtitle="33 Cannot Run Category Maintenance" format="dita" audience="Salesforce"/>
+      <topicref href="193698582.dita" navtitle="8 Cannot Select More Than Two Assets" format="dita" audience="Salesforce"/>
+      <topicref href="195690649.dita" navtitle="29 Cannot Send Email Through Doc Gen" format="dita" audience="Salesforce"/>
+      <topicref href="195690622.dita" navtitle="27 Cannot View Cart or Do Pricing" format="dita" audience="Salesforce"/>
+      <topicref href="193691780.dita" navtitle="19 Cart of the Cart Grid Flow Does Not Open" format="dita" audience="Salesforce"/>
+      <topicref href="193691800.dita" navtitle="45 Cart Page Landing Error" format="dita" audience="Salesforce"/>
+      <topicref href="190353520.dita" navtitle="30 Cart Page Loading Error" format="dita" audience="Salesforce"/>
+      <topicref href="190350585.dita" navtitle="54 Cart Views are not saved" format="dita" audience="Salesforce"/>
+      <topicref href="193698615.dita" navtitle="26 Cannot Add a Product to the Cart" format="dita" audience="Salesforce"/>
+      <topicref href="190353516.dita" navtitle="24 Currency Display Error" format="dita" audience="Salesforce"/>
+      <topicref href="190353508.dita" navtitle="78 Duplicate Line Item ID Field Error" format="dita" audience="Salesforce"/>
+      <topicref href="193698607.dita" navtitle="21 Error with Recommended Products" format="dita" audience="Salesforce"/>
+      <topicref href="190353496.dita" navtitle="46 Favorite Configuration Field Error" format="dita" audience="Salesforce"/>
+      <topicref href="190353500.dita" navtitle="56 Lapsed Line Item Cart Finalization Error" format="dita" audience="Salesforce"/>
+      <topicref href="193693113.dita" navtitle="12 Mass Updates Are Not Applied on Line Items" format="dita" audience="Salesforce"/>
+      <topicref href="195690655.dita" navtitle="31 Options Are Not Displayed" format="dita" audience="Salesforce"/>
+      <topicref href="195690814.dita" navtitle="47 Products Are Not Displayed" format="dita" audience="Salesforce"/>
+      <topicref href="195694540.dita" navtitle="Prototype 1" format="dita" audience="Salesforce"/>
+      <topicref href="195694544.dita" navtitle="Prototype 2" format="dita" audience="Salesforce"/>
+      <topicref href="195694569.dita" navtitle="Prototype 3" format="dita" audience="Salesforce"/>
+      <topicref href="195694634.dita" navtitle="Prototype 4" format="dita" audience="Salesforce"/>
+      <topicref href="195694638.dita" navtitle="Prototype 5 - Catalog Page Errors" format="dita" audience="Salesforce"/>
+      <topicref href="195694642.dita" navtitle="Prototype 6 - Catalog Page Errors" format="dita" audience="Salesforce"/>
+      <topicref href="193691771.dita" navtitle="15 Quadruple Checkbox Behavior Does Not Work" format="dita" audience="Salesforce"/>
+      <topicref href="190353491.dita" navtitle="6 Revalidation Error" format="dita" audience="Salesforce"/>
+      <topicref href="195690793.dita" navtitle="36 URL Displays devMode=true" format="dita" audience="Salesforce"/>
+   </topicref>
+</map>
